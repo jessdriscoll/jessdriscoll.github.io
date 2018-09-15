@@ -2,7 +2,7 @@ body {
     margin: 60px auto;
     width: 70%;
     font-family:'Arimo', 'Helvetica', 'Sans-Serif';
-    bg-color: #e6f2ff;
+    background-color: #e6f2ff;
 }
 nav ul, footer ul {
     padding: 0px;
