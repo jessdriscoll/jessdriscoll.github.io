@@ -3,7 +3,7 @@ body {
     width: 70%;
     font-family:'Arimo', 'Helvetica', 'Sans-Serif';
     color: #e6f2ff;
-    background-color: #00264d;
+    background-color: #003366;
 }
 nav ul, footer ul {
     padding: 0px;
@@ -15,16 +15,20 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
+    color: #e6f2ff;
 }
 a:hover {
     text-decoration: underline;
+    color: #e6f2ff;
 }
 h1 {
     font-size: 2em;
+    color: #e6f2ff;
 }
 p {
     font-size: 1;
     line-height: 1.4;
+    color: #e6f2ff;
 }
 footer {
     border-top: 1px solid #e6f2ff;
