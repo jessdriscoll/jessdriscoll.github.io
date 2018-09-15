@@ -2,6 +2,7 @@ body {
     margin: 60px auto;
     width: 70%;
     font-family:'Arimo', 'Helvetica', 'Sans-Serif';
+    bg-color: #e6f2ff;
 }
 nav ul, footer ul {
     padding: 0px;
@@ -13,7 +14,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #999;
+    color: #0073e6;
 }
 a:hover {
     text-decoration: underline;
@@ -24,10 +25,10 @@ h1 {
 p {
     font-size: 1.5em;
     line-height: 1.4em;
-    color: #333;
+    color: #00264d;
 }
 footer {
-    border-top: 1px solid #d5d5d5;
+    border-top: 1px solid #cce6ff;
     font-size: .8em;
 }
 
