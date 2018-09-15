@@ -1,7 +1,6 @@
 body {
     margin: 60px auto;
     width: 70%;
-    font-family:'Arimo', 'Helvetica', 'Sans-Serif';
 }
 nav ul, footer ul {
     font-family:'Arimo', 'Helvetica', 'Sans-Serif';
@@ -25,6 +24,7 @@ h1 {
     font-family:'Arimo', 'Helvetica', 'Sans-Serif';
 }
 p {
+    font-family:'Arimo', 'Helvetica', 'Sans-Serif';
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
