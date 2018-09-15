@@ -2,7 +2,7 @@ body {
     margin: 60px auto;
     width: 70%;
     font-family:'Arimo', 'Helvetica', 'Sans-Serif';
-    background-color: #e6f2ff;
+    background-color: #00264d;
 }
 nav ul, footer ul {
     padding: 0px;
@@ -25,7 +25,7 @@ h1 {
 p {
     font-size: 1;
     line-height: 1.4;
-    color: #00264d;
+    color: #e6f2ff;
 }
 footer {
     border-top: 1px solid #cce6ff;
