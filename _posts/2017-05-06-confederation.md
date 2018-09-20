@@ -10,7 +10,7 @@ I am still thinking about this quote from Denise Stonefish, deputy grand chief
 <blockquote>We don't have a lot to really celebrate in terms of 150 years of Confederation.</blockquote>
 While I don't have any big plans (at the moment), I have been caught up in the excitement of Canada's 150th birthday. <a href="http://jessdriscoll.com/emilycarr.html">I'm reading about Emily Carr</a>. <a href="http://jessdriscoll.com/blog/2017/04/09/after-i-pulled/">I'm hiking the Trans Canada Trail</a>. I'm celebrating by reminding myself how lucky I am to be Canadian in the world today. I never want to take this life for granted.
 
-But I know that I do. I only have this life because 150 years ago, <a href="https://en.wikipedia.org/wiki/Fathers_of_Confederation">36 white men</a> made the European colonization of Indigenous land official. As white Canadians, we must remember that we live on stolen land.
+But I know that I do. I only have this life because 150 years ago, [36 white men](https://en.wikipedia.org/wiki/Fathers_of_Confederation) made the European colonization of Indigenous land official. As white Canadians, we must remember that we live on stolen land.
 
 I live on <a href="https://en.wikipedia.org/wiki/Semiahmoo_people">Semiahmoo land</a>. We stole the name for the library. We stole the name for the mall. The band lives on 312 narrow acres of land by the water; we live on the rest.
 
