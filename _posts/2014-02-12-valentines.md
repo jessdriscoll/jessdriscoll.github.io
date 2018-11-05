@@ -1,6 +1,5 @@
 ---
 layout: post
-title: "valentine's, vanilla, anthology"
 date: 2014-02-12
 ---
 
