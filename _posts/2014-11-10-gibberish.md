@@ -1,0 +1,10 @@
+---
+layout: post
+date: 2014-11-10
+---
+
+This is only the second week of NaNoWriMo, but I already feel like I've settled into a routine. Sunday is my neighbourhood's write-in, a bunch of us with laptops, taking over the tables at a local Starbucks, alternating talking and laughing, silence and typing. It would be nice to keep it up for the rest of the year. It's close by. It's a nice place to write. I just need to convince some people to keep coming with me. It would be nice to have a writing group. As hard as it is for me to make friends, I'm always looking for a group of artists to talk and share and collaborate. That's what I miss about college. Not any specific group, but the potential of campus. That many people in the same place, all looking for the same thing. We scatter in our twenties and thirties, and no one knows how to get together. No one knows how to merge.
+
+I did a drawing class last month, and that was a good start. Now I need to find a more permanent thing. Even if it's only once a month, it's once a month of potential. For the cost of a cup of coffee, come and write at Starbucks. That's all I'm talking about. It doesn't have to be a big deal. It doesn't have to be the kind of thing where we talk about what we're writing and share it around in a circle. It's the collective energy to keep us going. It's a way to stay accountable, knowing that someone is expecting you to show up and do the work. That's what a NaNo write-in feels like for me. It's a group of people looking around to see if I'm writing, too.
+
+Because I can't go out, get on a bus, pay for tea, open my laptop, sit there, and do nothing. I have to move my fingers, even if I'm writing gibberish. Writing for NaNo is a lot of writing gibberish, but it's an important lesson. It's a lesson I needed thirty years to learn. I don't even want to look back at last week's sentences, because I know they doesn't make any sense. I don't even know if there's good stuff in there. In my mind, it's sprawling and meandering and random. I'm putting my faith in getting something out of it at the end of the month. Keep pushing forward with that faith and your fingers moving.
