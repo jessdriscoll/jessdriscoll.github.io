@@ -1,6 +1,6 @@
 body {
-    margin: 60px auto;
-    width: 70%;
+    margin: 30px auto;
+    width: 90%;
     font-family:'Arimo', 'Helvetica', 'Sans-Serif';
     color: #003366;
     background-color: #fcfdff;
@@ -11,7 +11,7 @@ nav ul, footer ul {
 }
 nav ul li, footer ul li {
     display: inline;
-    margin-right: 20px;
+    margin-right: 5px;
 }
 a {
     text-decoration: none;
@@ -22,7 +22,7 @@ a:hover {
     color: #0066cc;
 }
 h1 {
-    font-size: 2em;
+    font-size: 1;
     color: #e6f2ff;
 }
 p {
