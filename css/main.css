@@ -5,11 +5,11 @@ body {
     color: #003366;
     background-color: #fcfdff;
 }
-nav ul, footer ul {
+nav ul, header ul {
     padding: 0px;
     list-style: none;
 }
-nav ul li, footer ul li {
+nav ul li, header ul li {
     display: inline;
     margin-right: 10px;
 }
@@ -30,7 +30,7 @@ p {
     line-height: 1.4;
     color: #003366;
 }
-footer {
+header {
     border-top: 1px solid #003366;
     font-size: .8em;
 }
