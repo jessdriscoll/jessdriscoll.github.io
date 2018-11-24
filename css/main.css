@@ -34,6 +34,7 @@ p {
 header {
     border-bottom: 1px solid #003366;
     font-size: .8em;
+    align: center;
 }
 
 ul.posts { 
