@@ -2,9 +2,10 @@
 layout: default
 title: I collect ideas.
 ---
-	<ul class="pages">
+	
+ <ul class="proj">
 
-	  {% for page in site.pages %}
-		 <li>💘 {{ page.date | date: "%Y.%m.%d" }} > <a href="{{ page.url }}">{{ page.title }}</a></li>
+	  {% for proj in site.proj %}
+		 <li>&#128218; {{ proj.date | date: "%Y.%m.%d" }} > <a href="{{ proj.url }}">{{ proj.title }}</a></li>
 	  {% endfor %}
 	</ul>
