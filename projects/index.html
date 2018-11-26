@@ -1,7 +1,10 @@
 ---
 layout: default
-title: Je rêve.
+title: I collect ideas.
 ---
-<div class="blurb">
-				<p>PROJECTS</p>
-    		</div><!-- /.blurb -->
+	<ul class="pages">
+
+	  {% for page in site.pages %}
+		 <li>💘 {{ page.date | date: "%Y.%m.%d" }} > <a href="{{ page.url }}">{{ page.title }}</a></li>
+	  {% endfor %}
+	</ul>
