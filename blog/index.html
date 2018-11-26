@@ -5,6 +5,8 @@ title: J'ecris.
 	<ul class="posts">
 
 	  {% for post in site.posts %}
+		{% if post.category != null %}
+    {% else %}
 		 <li>💘 {{ post.date | date: "%Y.%m.%d" }} > <a href="{{ post.url }}">{{ post.title }}</a></li>
 	  {% endfor %}
 	</ul>
