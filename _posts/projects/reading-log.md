@@ -1,5 +1,6 @@
 ---
 layout: post
+category: projects
 title: Reading Log
 ---
 
