@@ -1,6 +1,5 @@
 ---
 layout: post
-title: "Emily"
 date: 2016-12-27
 ---
 
