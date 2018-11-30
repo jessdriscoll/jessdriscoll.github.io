@@ -5,7 +5,7 @@ date: 2018-11-30
 
 Nothing makes me happier than having a project. My brain has been like this since I was a kid. I would get fixated on a topic, then go out to learn as much about it as I could, to the exclusion of all else. It’s one reason I was a poor student at school; the teacher’s topics and mine just never seemed to line up. 
 
-A short list of past obsessions (not in chronological order):
+A short (and incomplete) list of past obsessions (not in chronological order):
 - Egyptian mythology 
 - Ancient Greek and Roman mythology 
 - Beat poets
