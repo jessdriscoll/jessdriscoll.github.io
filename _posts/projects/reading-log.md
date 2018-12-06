@@ -1,7 +1,7 @@
 ---
 layout: post
-category: projects
 title: Reading Log
+secondary: secondary
 ---
 
 January 04, 2002  
