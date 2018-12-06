@@ -1,12 +1,12 @@
 ---
 layout: default
-title: I collect ideas.
+title: Projects.
 ---
 	<ul class="posts">
 
 	  {% for post in site.posts %}
-		{% if post.category == 'projects' %}
-		 <li>📚 {{ post.date | date: "%Y.%m.%d" }} > <a href="{{ post.url }}">{{ post.title }}</a></li>
+		{% if post.secondary == 'secondary' %}
+		 <li>&#128203; {{ post.date | date: "%Y.%m.%d" }} > <a href="{{ post.url }}">{{ post.title }}</a></li>
 		{% endif %}
 	  {% endfor %}
 	</ul>
