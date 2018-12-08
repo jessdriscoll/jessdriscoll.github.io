@@ -1,0 +1,14 @@
+---
+layout: post
+date: 2013-01-13
+---
+
+How I learned to stop worrying and love Sid the Kid  
+
+I can't tell you why everyone hates Sidney Crosby, but here's why I hate Crosby: Canada is a country of underdogs. When you get too big, we get suspicious. Crosby was good right away. I mean midget hockey right away. He made it look way too easy. He became a star so young. There's just something about child prodigies that is suspect. He was drafted by an American team. Sure, it was Pittsburgh because of Mario Lemieux, and Canada still loves Lemieux (we hate Brett Hull because he wants to be American), but still: the best player of his generation and we lose him to the US. And to Pittsburgh. Nobody likes Pittsburgh. He lived at the Lemieux house for five years. That was just creepy. He was named captain right away. He's a weird kid. Weird in that way that a lot of young, successful people are. Too serious and with a blank personality. He loves hockey, and that's it. It's not a reason to hate him, but it's a reason he doesn't quite fit in. He's all anyone wants to talk about.  
+
+So, you have to understand how Canadians follow junior hockey. More cities in Canada have a junior team than an NHL team. (Vancouver has both: the Canucks and the Giants. Halifax, where most people grew up cheering for Montreal or Boston because they have no nearby NHL team, has the Mooseheads.) The World Junior Championship is a big deal like the Olympics. What I mean by that is that we were already annoyed by how good Crosby was. We were hearing about him in Canada long before he was a glint in the NHL Draft's eye. He became a song played too often on the radio. We were sick of his face, but we didn't want to let him go.  
+
+It's not fair, but on some collective level, Canada still isn't over Gretzky's trade to LA. Once we lost Gretzky, none of our guys were safe. We didn't want to lose Crosby, too. But with only six Canadian teams in the NHL (at the time of his draft), what chance did we have? What chance do we ever have against America? We want to be the best at this game because it's ours. Hockey is our game. And we are the best. Except that most of our guys play for the other side. The other side being every city in the United States which gets another expansion team when the country that made hockey only has seven. And Canada had to fight for every single one.  
+
+I don't hate Crosby anymore. I never really did. We don't hate people in Canada. I can't hate him anymore, not since the Olympics. The way he talks about hockey is the way I write about hockey. I can't play, but I get to watch him, and it's beautiful. I still think he's a weird kid. But he's growing into himself. Give him time. The price you pay for being that good is growing up where people can see you. Sidney Crosby let the world see him. I have to love him for that.
