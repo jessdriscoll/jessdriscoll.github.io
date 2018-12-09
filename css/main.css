@@ -32,7 +32,9 @@ p {
 header {
     border-bottom: 1px solid #f0449b;
 }
-
+ul.posts li {
+     list-style: none;
+ }
 img {
     width: 100%;
 }
