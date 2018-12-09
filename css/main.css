@@ -33,14 +33,6 @@ header {
     border-bottom: 1px solid #f0449b;
 }
 
-ul.posts { 
-    margin: 10px auto; 
-}
-
-ul.posts li {
-    list-style: none;
-}
-
 img {
     width: 100%;
 }
