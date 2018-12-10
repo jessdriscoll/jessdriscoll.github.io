@@ -10,7 +10,7 @@ body {
 nav ul, header ul {
     padding: 0px;
     list-style: none;
-    font-size:4vw;
+    font-size:3vw;
 }
 nav ul li, header ul li {
     display: inline;
