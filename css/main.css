@@ -35,6 +35,9 @@ header {
 ul.posts li {
      list-style: none;
  }
+ul.posts { 
+     margin: 10px auto; 
+ }
 img {
     width: 100%;
 }
