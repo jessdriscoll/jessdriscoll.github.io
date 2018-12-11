@@ -1,7 +1,6 @@
 body {
     margin: 10px auto;
     width: 90%;
-    max-width: 750px;
     font-size:2vw;
     font-family:'Arimo', 'Helvetica', 'Sans-Serif';
     color: #003366;
@@ -19,21 +18,17 @@ nav ul li, header ul li {
 a {
     text-decoration: none;
     color: #f0449b;
-    font-size:2vw;
 }
 a:hover {
     text-decoration: none;
     color: #f0449b;
-    font-size:2vw;
 }
 h1 {
     color: #f0449b;
-    font-size:2vw;
 }
 p {
     line-height: 1.4;
     color: #003366;
-    font-size:2vw;
 }
 header {
     border-bottom: 1px solid #f0449b;
