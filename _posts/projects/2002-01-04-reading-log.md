@@ -195,3 +195,562 @@ December 30, 2002
 The Virgin Suicides by Jeffrey Eugenides
 
 >And it was then Cecilia gave orally what was to be her only form of suicide note, and a useless one at that, because she was going to live: "Obviously, Doctor," she said, "you've never been a thirteen year old girl." (7)
+
+January 03, 2003  
+Word Freak by Stefan Fatsis
+
+>The word anagrams itself anagrams to the Latin ars magna, or great art. (30)
+
+February 08, 2003  
+Fraud by David Rakoff
+
+>I take myself to see Fight Club, which, while featuring an awfully good performance by the four inch band of flesh across Brad Pitt's stomach just above his pubic hair, does little to lift my spirits. (83)
+
+April 10, 2003  
+Sarah by JT LeRoy
+
+>She looked at me, her eyes wild with the secrets of death, and said, "I came back for you." (155)
+
+April 10, 2003  
+The Cheese Monkeys by Chip Kidd
+
+>I mumbled for the umpteenth time that year-long day of that first awful month, my tongue thick with shame.
+"Me? Art." (2)
+
+April 23, 2003  
+The Fuck-Up by Arthur Nersesian
+
+April 28, 2003  
+Party of One by Anneli Rufus
+
+>Or we can be misled into thinking that company, just a bit, betrays our true identity as loners. It does not. Not if she makes you laugh. Not if she always knows when it it time to go. (75)
+
+May 10, 2003  
+Midnight in the Garden of Good and Evil by John Berendt
+
+>"We have a saying: If you go to Atlanta, the first question people ask you is, "What's your business?" In Macon they ask, "Where do you go to church?" In Augusta they ask your grandmother's maiden name. But in Savannah the first question people ask you is, "What do you like to drink?" (30)
+
+May 17, 2003  
+Fargo Rock City by Chuck Klosterman
+
+>It was three months before I took the time to listen to side two. (10)
+
+May 19, 2003  
+Sleep Demons by Bill Hayes
+
+>Sleep acts, in this regard, more like an emotion than a bodily function. As with desire, it resists pursuit. Sleep must come find you.  
+>Nevertheless, I look for it. (5)
+
+May 22, 2003  
+True Lust by Tristan Taormino
+
+>"Wow, that is so cool," he said. "You're the future!" Apparently, we were the very near future, because we took him home that night. (212)
+
+June 08, 2003  
+The Heart is Deceitful Above All Things by JT LeRoy
+
+>And I watch the big yard with the white house with the room with dinosaur-covered walls and a racing car bed, and shelves of toys and charts with star and a smiling momma and daddy, I watch it fold up neat like a gas station map, and I bury it and hide it like a treasure map. (23)
+
+June 17, 2003  
+Up in the Air by Walter Kirn
+
+>America was that country all around us, and we knew that we'd go there someday, but we could wait. (139)
+
+March 13, 2004  
+Kitchen Confidential by Tony Bourdain
+
+April 25, 2004  
+A Cook's Tour by Tony Bourdain
+
+May 25, 2004  
+Live From New York by Tom Shales and James Andrew Miller
+
+October 23, 2004  
+A Home at the End of the World by Michael Cunningham
+
+>One of the beauties of living in Cleveland is that any direction feels like progress. (25)
+
+December 08, 2004  
+Kilter by John Gould
+
+>"What are you afraid of?"  
+>"Same thing everybody's afraid of. I'm afraid of everything." (5)
+
+January 23, 2005  
+Madhouse: The Private Turmoil of Working for the President by Jeffrey H. Birnbaum
+
+March 25, 2005  
+Less Than Zero by Bret Easton Ellis
+
+April 20, 2005  
+Dress Your Family in Corduroy and Denim by David Sedaris
+
+May 02, 2005  
+Best American Non-Required Reading 2002 edited by Dave Eggers
+
+May 29, 2005  
+All the President's Men by Carl Bernstein and Bob Woodward
+
+June 04, 2005  
+Alpha Beta: How our alphabet shaped the western world by John Man
+
+June 04, 2005  
+Bathroom Humor by Jane Millmore and Billy Van Zandt
+
+June 24, 2005  
+Benjamin Franklin: An American Life by Walter Isaacson
+
+July 01, 2005  
+The Art of Fiction by David Lodge
+
+July 03, 2005  
+Tastes of Paradise: A Social History of Spices, Stimulants, and Intoxicants by Wolfgang Schivelbusch
+
+July 17, 2005  
+How to think like da Vinci by Michael Gelb
+
+July 19, 2005  
+Creative Non Fiction by Philip Gerard
+
+July 26, 2005  
+On Writing by Stephen King
+
+July 29, 2005  
+Planet Simpson by Chris Turner
+
+August 07, 2005  
+On Blondes by Joanna Pitman
+
+Sept 29, 2005  
+Driving Mr. Albert by Michael Paterniti
+
+October 06, 2005  
+The Unknown Darkness: an FBI profiler on his most memorable cases by Gregg O. McCrary
+
+November 26, 2005  
+Encyclopedia of an Ordinary Life by Amy Krouse Rosenthal
+
+April 13, 2006  
+Art of the Start by Guy Kawasaki
+
+April 14, 2006  
+Sex, Drugs, and Cocoa Puffs by Chuck Klosterman
+
+April 21, 2006  
+Blink by Malcolm Gladwell
+
+April 23, 2006  
+What should I do with my life? by Po Bronson
+
+April 29, 2006  
+Best Music Writing 2003, edited by Matt Groening
+
+April 30, 2006  
+The Other 90% by Robert Cooper
+
+May 04, 2006  
+Why I Write by George Orwell
+
+May 16, 2006  
+Nine Stories by J.D. Salinger
+
+>Written in ink, in German, in a small hopelessly sincere handwriting, were the words "Dear God, life is hell." Nothing led up to or away from it. 
+
+May 18, 2006  
+Not Much Fun: The lost poems of Dorothy Parker
+
+>Clean out ferryboats; peddle fish;  
+>Go be chorus men if you wish;  
+>Rob your neighbors' houses in the dark midnight;  
+>But think of your families, and please don't write. 
+
+May 22, 2006  
+Untangling my chopsticks: a culinary sojourn in Kyoto by Victoria Abbott Riccardi
+
+>Everyday Japanese White Rice  
+>1 1/2 cups short-grain rice  
+>Place rice in fine mesh sieve. Rinse under cold water, using your hand to gently stir until the liquid runs clear, about 2 minutes. Transfer rice to heave-bottom saucepan. Add 2 cups cold water. Let soak for an hour. Bring rice to boil. Reduce heat to low and cook, covered, for 10 minutes. Turn off heat and rest, covered, for 10 minutes. Remove lid and spoon out the rice with a wooden rice paddle (or spoon). If by chance some rice sticks to the bottom of the pot, don't despair! Simply spoon out all the soft grains, then scrape up the crispy bottom portion to eat as a snack sprinkled with coarse salt. Makes 4 cups.
+
+June 30, 2006  
+The Nasty Bits by Anthony Bourdain
+
+July 23, 2006  
+Sula by Toni Morrison
+
+August 12, 2006  
+Getting Things Done by David Allen
+
+August 13, 2006  
+Our Town by Thorton Wilder
+
+September 04, 2006  
+Grain Vol 31 No 02
+
+September 07, 2006  
+Writing Down the Bones by Natalie Goldberg
+
+November 24, 2006  
+Tab Hunter Confidential by Tab Hunter and Eddie Muller
+
+November 25, 2006  
+Songbook by Nick Hornby
+
+March 2007  
+Diaries: The Python Years, 1969-1979 by Michael Palin
+
+May 07, 2007  
+The Wars by Timothy Findley
+
+August 23, 2007  
+Paterson by William Carlos Williams
+
+August 24, 2007  
+This Year I Will by M.J. Ryan
+
+August 28, 2007  
+Creating from the Spirit by Dan Wakefield
+
+September 17, 2007  
+Master and Commander by Patrick O'Brien
+
+September 22, 2007  
+Grain of Truth by Ross Laird
+
+October 05, 2007  
+Toast: the story of a boy's hunger by Nigel Slater
+
+October 14, 2007  
+An Enchantment of Birds by Richard Cannings
+
+November 11, 2007  
+The Tipping Point by Malcolm Gladwell
+
+November 15, 2007  
+The Grail Bird by Tim Gallagher
+
+November 17, 2007  
+The 100-Mile Diet: A year of eating locally by Alisa Smith and J.B. MacKinnon
+
+November 30, 2007  
+Upstart Star-Ups by Ron Lieber
+
+December 22, 2007  
+The Great Gatsby by F. Scott Fitzgerald
+
+December 23, 2007  
+The Hungry Ocean: A Swordboat Captain's Journey by Linda Greenlaw
+
+December 28, 2007  
+DIY: The Rise of Lo-Fi Culture by Amy Spencer
+
+December 30, 2007  
+Shakespeare and Company by Sylvia Beach
+
+January 01, 2008  
+Caught Inside: A Surfer's Year on the California Coast by Daniel Duane
+
+January 03, 2008  
+Night by Elie Wiesel
+
+February 25, 2008  
+Euclid's Window: The Story of Geometry from Parallel Lines to Hyperspace by Leonard Mlodinow
+
+March 20, 2008  
+The Whale Rider by Witi Ihimaera
+
+April 04, 2008  
+The Anti 9 to 5 Guide: Practical Career Advice for Women Who Think Outside the Cube by Michelle Goodman
+
+April 13, 2008  
+All Too Human by George Stephanopoulos
+
+April 14, 2008  
+Dispatches from the Edge: A Memoir of War, Disasters, and Survival by Anderson Cooper
+
+April 21, 2008  
+Thirteen Days: A Memoir of the Cuban Missile Crisis by Robert F. Kennedy
+
+April 22, 2008  
+Defiant Imagination by Max Wyman
+
+April 26, 2008  
+The Notorious Jumping Frog of Calaveras County and Other Stories by Mark Twain
+
+April 26, 2008  
+The Bone People by Keri Hulme
+
+April 29, 2008  
+Refuse to Choose!: A Revolutionary Program for Doing Everything That You Love by Barbara Sher
+
+May 2008  
+On Writing by Eudora Welty
+
+May 04, 2008  
+Office Hours by Norm Foster 
+
+May 04, 2008  
+The Trail Home by John Daniel
+
+May 06, 2008  
+Suddenly, Last Summer by Tennessee Williams
+
+May 10, 2008  
+Gossip Girl 1 by Cecily Ziegesar
+
+May 10, 2008  
+Griffin & Sabine Trilogy, Morning Star Trilogy by Nick Bantock
+
+May 11, 2008  
+Gossip Girl 2 by Cecily Ziegesar
+
+May 15, 2008  
+My Antonia by Willa Cather
+
+May 15, 2008  
+Gossip Girl 3 by Cecily Ziegesar
+
+May 16, 2008  
+Gossip Girl 4 by Cecily Ziegesar
+
+May 16, 2008  
+Angels in America by Tony Kushner
+
+May 16, 2008  
+In Defense of Food: An Eater's Manifesto by Michael Pollan
+
+May 27, 2008  
+The Grapes of Wrath by John Steinbeck
+
+May 28, 2008  
+Their Eyes Were Watching God by Zora Neale Hurston
+
+May 29, 2008  
+Of Mice and Men by John Steinbeck
+
+May 18, 2008  
+Gossip Girl 5, 6 by Cecily Ziegesar
+
+May 30, 2008  
+Cannery Row by John Steinbeck
+
+May 31, 2008  
+Rosencrantz and Guildenstern Are Dead by Tom Stoppard
+
+June 05, 2008  
+May You Be the Mother of a Hundred Sons: A Journey Among the Women of India by Elisabeth Bumiller
+
+June 06, 2008  
+Create a Life Worth Living by Carol Lloyd
+
+June 22, 2008  
+Changing Tides by Michael Thomas Ford
+
+June 24, 2008  
+Santa Monica Canyon by Gregory Hinton
+
+June 26, 2008  
+Breakfast with Scot by Michael Downing
+
+July 09, 2008  
+Into the Wild by Jon Krakauer
+
+July 12, 2008  
+Geography Club by Brent Hartinger
+
+July 12, 2008  
+Let's Not Let a Little Thing Like the End of the World Come Between Us by James Marshall
+
+July 12, 2008  
+Boy Meets Boy by David Levithan
+
+July 13, 2008  
+Rainbow High (1, 2, 3) by Alex Sanchez
+
+July 19, 2008  
+Post Captain by Patrick O'Brian
+
+September 21, 2008  
+Cambridge by Caryl Phillips
+
+November 23, 2008  
+Flaubert's Parrot by Julian Barnes
+
+December 05, 2008  
+Wide Sargasso Sea by Jean Rhys
+
+December 10, 2008  
+Angels and Insects by A.S. Byatt
+
+December 13, 2008  
+Nick & Norah's Infinite Playlist by Rachel Cohn and David Levithan
+
+February 15, 2009  
+The Mayor of Castro Street: The Life and Times of Harvey Milk by Randy Shilts
+
+April 10, 2009  
+Stitching a Revolution: The Making of an Activist by Cleve Jones
+
+April 21, 2009  
+Beard on Food: The Best Recipes and Kitchen Wisdom from the Dean of American Cooking by James Beard
+
+April 24, 2009  
+My Life in France by Julia Child
+
+April 27, 2009  
+A Homemade Life: Stories and Recipes from My Kitchen Table by Molly Wizenberg
+
+May 07, 2009  
+Cod: A Biography of the Fish that Changed the World by Mark Kurlansky
+
+June 15, 2009  
+X Saves the World: How Generation X Got the Shaft by Can Still Keep Everything From Sucking by Jeff Gordinier
+
+June 18, 2009  
+Montgomery Clift by Maurice Leonard
+
+June 20, 2009  
+Stuffed: Adventures of a Restaurant Family by Patricia Volk
+
+June 21, 2009  
+The Devil's Details: A History of Footnotes by Chuck Zerby
+
+June 23, 2009  
+The Late Bloomer's Revolution: A Memoir by Amy Cohen
+
+June 25, 2009  
+A Pig in Provence: Good Food and Simple Pleasures in the South of France by Georgeanne Brennan
+
+June 29, 2009  
+The One Best Way: Frederick Winslow Taylor and the Enigma of Efficiency by Robert Kanigel
+
+July 02, 2009  
+Paper Lion: Confessions of a Last-String Quarterback by George Plimpton
+
+July 03, 2009  
+The Devil in the Kitchen: Sex, Pain, Madness and the Making of a Great Chef by Marco Pierre White
+
+December 04, 2009  
+George Balanchine: The Ballet Maker by Robert Gottlieb
+
+December 09, 2009  
+Across the Great Divide: The Band and America by Barney Hoskyns
+
+December 15, 2009  
+Slanted and Enchanted: The Evolution of Indie Culture by Kaya Oakes
+
+December 17, 2009  
+Street Gang: The Complete History of Sesame Street by Michael Davis
+
+January 07, 2010  
+No Applause--Just Throw Money: The Book That Made Vaudeville Famous by Trav S.D.
+
+January 12, 2010  
+Gasping for Airtime: Two Years in the Trenches of Saturday Night Live by Jay Mohr
+
+January 16, 2010  
+Carter Beats the Devil by Glen David Gold
+
+January 17, 2010  
+When Television was Young: The Inside Story with Memories by Legends of the Small Screen by Ed McMahon
+
+January 23, 2010  
+One More Time! by Dal Richards
+
+April 04, 2010  
+Tall, Dark, and Difficult by Patricia Coughlin
+
+April 05, 2010  
+A Not-So-Perfect Past by Beth Andrews
+
+April 15, 2010  
+The Beekeeper's Daughter by Janice Carter
+
+April 21, 2010  
+Secret Ingredient: Love by Teresa Southwick
+
+April 22, 2010  
+The Proving Ground: The Inside Story of the 1998 Sydney to Hobart Race by G. Bruce Knecht
+
+May 13, 2010  
+Loving Jack by Nora Roberts
+
+May 21, 2010  
+Small if Possible: Life in a Local Economy by Lyle Estill
+
+July 01, 2010  
+It's Not About the Bike: My Journey Back to Life by Lance Armstrong
+
+July 07, 2010  
+Band of Brothers: E Company, 506th Regiment, 101st Airborne from Normandy to Hitler's Eagle's Nest by Stephen E. Ambrose
+
+July 17, 2010  
+Parachute Infantry: An American Paratropper's Memoir of D-Day and the Fall of the Third Reich by David Kenyon Webster
+
+August 05, 2010  
+Breaking News: A Stunning and Memorable Account of Reporting from Some of the Most Dangerous Places of the World by Martin Fletcher
+
+August 2010  
+Nureyev: The Life by Julie Kavanagh
+
+January 20, 2011  
+Just Kids by Patti Smith
+
+June 30, 2011  
+Wild Mind: Living the Writer's Life by Natalie Goldberg
+
+July 2011  
+The Renaissance Soul: Life Design for People with Too Many Passions to Pick Just One by Margaret Lobenstine
+
+July 2011  
+The Write Track: How to Succeed as a Freelance Writer in Canada by Betty Jane Wylie
+
+July 14, 2011  
+How to Be Alone by Jonathan Franzen
+
+August 06, 2011  
+The Last Campaign: Robert F. Kennedy and 82 Days That Inspired America by Thurston Clarke
+
+August 14, 2011  
+The Onmivore's Dilemma by Michael Pollan
+
+August 25, 2011  
+The Audacity to Win: The Inside Story and Lessons of Barack Obama's Historic Victory by David Plouffe
+
+September 05, 2011  
+Alvin Ho: Allergic to Girls, School, and Other Scary Things by Lenore Look
+
+September 07, 2011  
+The Teashop Girls by Laura Schaefer
+
+September 08, 2011  
+Just Grace by Charise Mericle Harper
+
+September 11, 2011  
+Who is Bugs Potter? by Gordon Korman
+
+September 12, 2011  
+The Top 10 Ways to Ruin the First Day of 5th Grade by Ken Derby
+
+September 17, 2011  
+The Brilliant Fall of Gianna Z. by Kate Messner
+
+October 08, 2011  
+The Big Moo: Stop Trying to be Perfect and Start Being Remarkable by The Group of 33
+
+October 26, 2011  
+Lonely: A Memoir by Emily White
+
+November 05, 2011  
+Fair Game by Josh Lanyon
+
+November 06, 2011  
+Icecapade by Josh Lanyon
+
+November 21, 2011  
+Confessions of a Freelance Penmonkey by Chuck Wendig
+
+December 04, 2011  
+Bird by Bird by Anne Lamott
+
+December 11, 2011  
+Alice's Adventures in Wonderland & Through the Looking-Glass by Lewis Carroll
