@@ -15,7 +15,7 @@ date: 2018-12-14
 
 6. I got an appointment for an assessment with a nurse. We, rather, I talked for about an hour. She said, “You definitely have depression and anxiety,” and a part of the 15-year weight lifted off my shoulders. 
 
-7. She suggested I try a clinic to try medication, but warned me I would need a regular doctor to continue with antidepressants. I went to the walk-in clinic that day, got a prescription for escitalopram (I think a month cost $7), and started taking it the next morning. 
+7. She suggested I go to a clinic to try medication (I did), but warned me I would need a regular doctor to continue with antidepressants. I went to the walk-in clinic that day, got a prescription for escitalopram (I think a month cost $7), and started taking it the next morning. 
 
 8. She also referred me to group therapy. I started a few weeks later, a once a week meeting at the same place with about 6 other people and a facilitator. 
 
