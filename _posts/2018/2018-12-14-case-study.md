@@ -31,8 +31,10 @@ date: 2018-12-14
 
 14. I did a one hour intake interview with a healthcare professional in the psychiatrist’s office over the phone. That was on December 5th. My appointment is on the 20th. 
 
-15. I do not pay for any doctor visits. I only pay for medication. But there is also the invisible cost of time. I’m grateful for a flexible work schedule which lets me get to meetings and appointments. I'm also a white cisgender woman, and I know that privilege helps somewhat when speaking to doctors. I wish I had known I could do this. I wish someone told me I wouldn’t have to wait months for an appointment or pay hundreds of dollars to talk to a psychiatrist. I wish I knew medical clinics could prescribe antidepressants. I wish I knew how cheap pills can be. 
+15. I do not pay for any doctor visits. I only pay for medication. But there is also the invisible cost of time. I’m grateful for a flexible work schedule which lets me get to meetings and appointments. I'm also a white cisgender woman, and I know that privilege helps somewhat when speaking to doctors. 
 
-16. I want you to know so you can find the help you need. It’s hard. I’m not there yet. I don’t know how long it will take to get to a place where I feel good (mostly because I’ve been here for so long, I’m not actually sure I know what good feels like). But I’ve taken a lot of small steps over the last few years, and I’m better than I was before. 
+16. I wish I had known I could do this. I wish someone told me I wouldn’t have to wait months for an appointment or pay hundreds of dollars to talk to a psychiatrist. I wish I knew medical clinics could prescribe antidepressants. I wish I knew how cheap pills can be. 
 
-17. I wish that for you, too. 
+17. I want you to know so you can find the help you need. It’s hard. I’m not there yet. I don’t know how long it will take to get to a place where I feel good (mostly because I’ve been here for so long, I’m not actually sure I know what good feels like). But I’ve taken a lot of small steps over the last few years, and I’m better than I was before. 
+
+18. I wish that for you, too. 
