@@ -23,7 +23,7 @@ date: 2018-12-14
 
 10. I need to make something clear at the point: I did not pay for any visits. Every meeting with a healthcare professional, every therapy session was free, completely covered by my government insurance. I make about $15k a year, firmly in the bottom tax bracket, and I pay no premiums. 
 
-11. Once I found a GP (my family had not had a regular doctor in decades), I wanted to try medication. Prescriptions are not covered by the government. I have no healthcare through my job. My first month of venlafaxine cost $14. The dose has gone up over the last 8 months, and now a month costs me $35.
+11. Once I found a GP (my family had not had a regular doctor in decades), I wanted to try medication again. Prescriptions are not covered by the government. I have no healthcare through my job. My first month of venlafaxine cost $14. The dose has gone up over the last 8 months, and now a month costs me $35.
 
 12. After 8 months of experimentation, I have had up and down periods. I have had good weeks and weeks when I sleep too much. The medication is supposed to be working by now, and it is, but not consistently. So my doctor has referred me to a psychiatrist. That was at the end of November. 
 
