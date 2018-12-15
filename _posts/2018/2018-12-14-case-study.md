@@ -19,7 +19,7 @@ date: 2018-12-14
 
 8. She also referred me to group therapy. I started a few weeks later, a once a week meeting at the same place with about 6 other people and a facilitator. 
 
-9. I went through that system for almost two years, doing 4-12 weeks stretches in different programs. 
+9. I went through that system for almost two years, doing 4-12 week stretches in different programs. 
 
 10. I need to make something clear at the point: I did not pay for any visits. Every meeting with a healthcare professional, every therapy session was free, completely covered by my government insurance. I make about $15k a year, firmly in the bottom tax bracket, and I pay no premiums. 
 
