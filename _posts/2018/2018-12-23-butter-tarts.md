@@ -21,4 +21,4 @@ Distribute fruit and nuts among shells. Spoon egg mixture on top. Fill generousl
 
 Bake at 450 for first 5 minutes. Reduce temperature to 350 and bake until the pastry is golden and mixture has puffed up. It will fall as it cools.
 
-Serve with unsweetened whipped cream and eat plain. Good warm and cold. Freeze well. Absolutely necessary Christmas tradition.
+Serve with unsweetened whipped cream or eat plain. Good warm and cold. Freeze well. Absolutely necessary Christmas tradition.
