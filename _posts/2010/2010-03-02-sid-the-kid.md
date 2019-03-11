@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2010-03-12
+date: 2010-03-02
 ---
 
 >He's 22. He won a Stanley Cup and scored the gold-medal winning goal on home ice. Say what you want about the hype, but he is now a legend.
