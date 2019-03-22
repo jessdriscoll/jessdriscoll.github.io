@@ -3,6 +3,8 @@ layout: post
 date: 2010-08-11
 --- 
 
+(This post was originally written on 750words.com. It has been edited.)
+
 I have to go very soon. I need a shower and to pack. I think I'm going to try to pack my clothes in my messenger bag. Part of my new challenge: 100 things. I only want to have 100 things. Because, very soon, I want to be able to move out, to move across the country, I think. I have a few schools I'm thinking about applying to, and all of them are in the Maritimes. Is that the wrong way to do it? Should I not pick the province first and then what Masters program I want to do? I just want to be out of BC. That sounds awful, because I really do love this place. I would live here if I could afford to. I can't afford the rent, not only because I can't find a job but because I can't afford the rent. It's insane. It's gorgeous and dynamic and great food, great shows, great atmosphere, great philosophy, but so so expensive. 
 
 Anyway, I've never been to the Maritimes. I've been as far as Montreal. Now it's time to see the rest of Canada. I was thinking PEI for the longest time. I love that I can bike from one end of the province to the other in a single day (or that's what they say. It may take me a few days of practice). But there's just the one university, and they don't have graduate programs. Nova Scotia, however, has a lot of universities, and some really great programs. So I'm applying to Dalhousie for architecture, and NSCAD for textile arts. 
