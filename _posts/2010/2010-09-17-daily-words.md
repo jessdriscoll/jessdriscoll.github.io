@@ -1,0 +1,22 @@
+---
+layout: post
+date: 2010-09-17
+--- 
+
+(This post was originally written on 750words.com. It has been edited.)
+
+I've had a day now to figure out how to write about the Bard's Henry V. But I haven't figured anything out. It's going to take a bit longer. It's going to take me writing something or everything, maybe, inspired by it before I know how deeply it affected me. It was easy to decide which productions I wanted to see this year. I always love the metaness of shared casts. Shakespeare does that a lot anyway, but sharing between productions is a Bard thing I love. I'm still kicking myself for not moving heaven and earth to get to the Hamlet/Rosencrantz and Guildenstern. I hope they do that again, sometime in the future. 
+
+This summer, it's the Henrys. The IVs mashed up into Falstaff and Henry V. Henry V is the better written play, but it was also an inspired production. It was fucking brilliant, there's just really no other way to put it. I was blown away from the very first moment. From the empty set. Bob Frazer plays a couple of tiny roles, but he makes so much of them in Henry that I think they even beat him as Hotspur in IV. How is that possible? Hotspur is a marquee role. But it's true. 
+
+Henry mesmerised me. I didn't even hate all the laughter as much as I usually do. I just wanted more. I didn't want it to end. I went to the Bard website to see if I could see it again, but Henry's all sold out. The other shows, you can still find a few tickets. Henry's all sold out. I think word must be getting around. There's no way they're all Battlestar Galactica fans. I said, or wrote, immediately afterwards, it's the kind of show that inspires everything you do that comes after. 
+
+During the intermission, I started taking notes for that travelling players idea I had. I had been thinking about that during Shakespeare in Love, and this production brought it all up again. I could write something, weaving a ton of Shakespeare into an original story, and it could be the kind of thing Bard produces. It could be something of interest, at least. Like Shakespeare in Love, but not as obvious. I mean, I love that movie, more than most people, but it's a little on the nose. I do, however, want to find a play that meshes well with my original story. I'm leaning towards Two Gentlemen of Verona. Because I already have two gentlemen. 
+
+I'm thinking about renaming all my characters, too. Renaming them after minor Shakespearean characters. The kind of characters that you never really know their names when you see the show on stage, then struggle to match name to face when you read the play. Those kinds of people. I want it to be written in fairly modern English. Again, like Shakespeare in Love, I suppose. (Tangent: I wonder if George Lucas in Love is on YouTube. I remember watching that when iFilm was the video site on the internet. Was it iFilm, or something even before that?) 
+
+I want to write something inspired by all my favourite productions of Shakespeare. The WWII version of Much Ado by Carousel Theatre, with Beatrice as Rosie the Riveter and Benedick as a Navy man. The modern version of Henry IV I saw in Ashland, with the punk Hal and hippie Falstaff, contrasted with the militaristic Hotspur. Baz Luhrmann's Romeo and Juliet, of course, which came around at just the right time in my life. Titus Andronicus, Julie Taymor-style. Everything that ever borrowed plot or lines or style from Shakespeare. Bare, which repurposes Romeo and Juliet's story for confused gay Catholic school boys. More that I'm probably forgetting now, but will come to me later. 
+
+I think I forget how good Shakespeare is. I think I forget how much I really do love him and his writing and his words and his life. (Peter Brook's King Lear--there's one I forgot.) Because Shakespeare is easy. Everyone says they love Shakespeare. He's The Beatles of literature. Everyone thinks they love him, but few really know him. He influences everyone, without anyone really knowing. He's the obvious answer to every question. That's what makes loving him hard, too. To spend an entire life reading, only to end up back at Shakespeare. Like, shouldn't I have moved on from you now. No. 
+
+That's why Shakespeare's still relevant today. Because we can't move on. We haven't finished. There's still so much to figure out. There's still another play to write that uses his words in a brand new way. That's the play I want to write.
