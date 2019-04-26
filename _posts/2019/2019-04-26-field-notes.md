@@ -3,7 +3,7 @@ layout: post
 date: 2019-04-26
 ---
 
-Internet people are fanatical about [Field Notes](https://fieldnotesbrand.com/). I love the design, and the subscription model is clever, but they’re too small for how I use notebooks. I keep one book at a time, and everything goes into it. So I need some space. Recently, I’ve been using B6 (5x7) books, but 6x9 spiral notebooks used to be my go-to, the really cheap ones you can get at the dollar store. Field Notes are 3.5x4.5. 
+Internet people are fanatical about [Field Notes](https://fieldnotesbrand.com/). I love the design, and the subscription model is clever, but they’re too small for how I use notebooks. I keep one book at a time, and everything goes into it. So I need some space. Recently, I’ve been using B6 (5x7) books, but 6x9 spiral notebooks used to be my go-to, the really cheap ones you can get at the dollar store. Field Notes are 3.5x5.5. 
 
 But because they’re the notebook of choice on the internet, I have a 3-pack from the XOXO festival to use. I started my new notebook on April 1 (I usually fill one a month). Today, April 26, I might reach the middle. 
 
