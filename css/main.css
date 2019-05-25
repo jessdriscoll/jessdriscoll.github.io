@@ -5,13 +5,13 @@ body {
     font-size:100%;
     font-family:'Arimo', 'Helvetica', 'Sans-Serif';
     color: #2C3E50;
-    background-color: #E5E7E9;
+    background-color: #FFFFFF;
 }
 nav ul, header ul {
     padding: 0px;
     list-style: none;
-    font-size:150%;
-    color: #EFAB10;
+    font-size:100%;
+    color: #2C3E50;
 }
 nav ul li, header ul li {
     display: inline;
@@ -30,7 +30,7 @@ p {
     color: #2C3E50;
 }
 header {
-    border-bottom: 1px solid #EFAB10;
+    border-bottom: 1px solid #2C3E50;
 }
 ul.posts li {
      list-style: none;
