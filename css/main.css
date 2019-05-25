@@ -5,13 +5,13 @@ body {
     font-size:100%;
     font-family:'Arimo', 'Helvetica', 'Sans-Serif';
     color: #2C3E50;
-    background-color: #FDFDFD;
+    background-color: #E5E7E9;
 }
 nav ul, header ul {
     padding: 0px;
     list-style: none;
     font-size:150%;
-    color: #1B4A27;
+    color: #EFAB10;
 }
 nav ul li, header ul li {
     display: inline;
@@ -19,18 +19,18 @@ nav ul li, header ul li {
 }
 a {
     text-decoration: none;
-    color: #465666;
+    color: #7B8692;
 }
 a:hover {
     text-decoration: none;
-    color: #616E7C;
+    color: #CACFD3;
 }
 p {
     line-height: 1.4;
     color: #2C3E50;
 }
 header {
-    border-bottom: 1px solid #1B4A27;
+    border-bottom: 1px solid #EFAB10;
 }
 ul.posts li {
      list-style: none;
