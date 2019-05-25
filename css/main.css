@@ -18,7 +18,7 @@ nav ul li, header ul li {
 }
 a {
     text-decoration: none;
-    color: #262524;
+    color: ##F39C12;
 }
 a:hover {
     text-decoration: none;
@@ -32,7 +32,7 @@ p {
     color: #262524;
 }
 header {
-    border-bottom: 1px solid #262524;
+    border-bottom: 1px solid ##F39C12;
 }
 ul.posts li {
      list-style: none;
