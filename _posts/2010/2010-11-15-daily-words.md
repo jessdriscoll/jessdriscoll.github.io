@@ -1,0 +1,10 @@
+---
+layout: post
+date: 2010-11-15
+--- 
+
+(This post was originally written on 750words.com. It has been edited.)
+
+It's halfway through the month, and I'm not halfway through the novel. I'm just over 13k. I've adjusted my expectations a little. Work is proving to be too much for a writing schedule. I don't get nearly enough done on the bus, and when I get home, I just don't feel like it. I need a lot of downtime to decompress from having to deal with so many people and their problems. But I don't have enough time. I work so much that I need more time alone and then I don't have time leftover to write. I need to get better at this. I don't know how, but I'll figure it out. For now, though, I will aim for 30k words at the end of the month. That's 1000 every day. I'm a little behind on that goal, too, but there's still time to catch up. I think I might do a bunch of character prompts to get my rhythm back. Or get a rhythm. Maybe I never had one to start with. I have a plot, but I haven't really started moving it forward. I keep writing around the plot. I keep going back to the character pieces. It's not that it's easy stuff to write, but it's stuff I know. Plot, I don't know. I just hate conflict. I don't like confrontation. I don't like it in my fiction and I don't like it in real life. It only stands to reason that I have a hard time writing it myself. But it's necessary, isn't it? Conflict is what makes a compelling story. 
+
+I'm starting to get punchy. I'm at that place I've been a few times now. I don't always know what I'm typing, only that I keep typing. When I was looking through all the archived entries of 750 words, there was some good stuff that I don't remember at all. And it's proper English. That just bothers me. I don't remember. How can I not remember. And what I'm writing right now, there's a better than even chance I won't remember this either. The problem is that I need these words. They don't have to make a change, but I still have to. I need to have something to write, every day. Every day is hard. Every day is what makes you a writer.
