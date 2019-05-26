@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2010-11-16
+--- 
+
+(This post was originally written on 750words.com. It has been edited.)
+
+Some days I'm tempted to write blah blah blah for 750 words. It's not exactly cheating, but it's easier than this. I keep leaving it to the last minute. I just don't want to deal with it some days. But then I look at my streak, and I don't want to break it. I don't have a perfect November, but maybe this will be the month that I at least write something on every day. Even if I don't make the word count. I don't remember exactly why I didn't make the word count on the two days I'm missing. I know one of them, probably the first one, was because I was trying to do actual writing. That doesn't work for me for 750 words. It got too late before I started rambling just to make word count. I learned my lesson and started writing my rambly journal type posts again. Now I'm just barely 200 words in, and already I don't have much to say. I have to go to work tomorrow, which sucks, but 1-9, which is better. Actually, I kind of like 8-4, too, but that's not a real shift. We don't work 8-4, and it makes even less sense for me to work 8-4, because the customers don't show up until 930. But then I have Thursday off. Lots and lots of writing I plan to do. I need to catch up to something. If I'm not going to catch up to Nano, I need to catch up to 30k. That's my new, adjusted goal. If I can write 30k this month, then 30k next month, I can still meet my goal of a novel by the end of the year. I'm at 13k, almost 14. I'm gonna get to 15 by Thursday. Then just keep plugging along. I need to get to the plot part of this story. I've pushed ahead to some other stuff, but now it's time to find the throughline. 
