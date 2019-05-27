@@ -9,14 +9,12 @@ body {
 }
 nav ul, header ul {
     padding: 0px;
-    margin-left: 100px;
     list-style: none;
     font-size:200%;
     font-family: 'Abril Fatface', cursive;
 }
 nav ul li, header ul li {
     display: inline;
-    margin-left: 100px;
 }
 a {
     text-decoration: none;
@@ -42,6 +40,6 @@ ul.posts {
 img {
     width: 75%;
     height: auto;
-    margin-left: 100px auto;
-    margin-right: 100px auto;
+    margin-left: auto;
+    margin-right: auto;
 }
