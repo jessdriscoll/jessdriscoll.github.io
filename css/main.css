@@ -2,7 +2,7 @@ body {
     margin: 10px auto;
     width: 90%;
     max-width: 800px;
-    font-size:150%;
+    font-size:100%;
     font-family: 'Open Sans', sans-serif;
     color: #2C3E50;
     background-color: #FFFFFF;
@@ -10,7 +10,7 @@ body {
 nav ul, header ul {
     padding: 0px;
     list-style: none;
-    font-size:200%;
+    font-size:100%;
     font-family: 'Abril Fatface', cursive;
 }
 nav ul li, header ul li {
