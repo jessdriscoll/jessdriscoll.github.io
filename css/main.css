@@ -12,7 +12,6 @@ nav ul, header ul {
     list-style: none;
     font-size:150%;
     font-family: 'Abril Fatface', cursive;
-    color: #2C3E50;
 }
 nav ul li, header ul li {
     display: inline;
@@ -20,7 +19,7 @@ nav ul li, header ul li {
 }
 a {
     text-decoration: none;
-    color: #161F28;
+    color: #CD7F32;
 }
 a:hover {
     text-decoration: none;
@@ -28,7 +27,6 @@ a:hover {
 }
 p {
     line-height: 1.4;
-    color: #2C3E50;
 }
 header {
     border-bottom: 1px solid #2C3E50;
