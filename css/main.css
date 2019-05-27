@@ -38,8 +38,6 @@ ul.posts {
     line-height: 1.4;
  }
 img {
-    width: 75%;
+    width: 100%;
     height: auto;
-    margin-left: 100px;
-    margin-right: auto;
 }
