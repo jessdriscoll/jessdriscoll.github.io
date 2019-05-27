@@ -10,7 +10,7 @@ body {
 nav ul, header ul {
     padding: 0px;
     list-style: none;
-    font-size:100%;
+    font-size:200%;
     font-family: 'Abril Fatface', cursive;
 }
 nav ul li, header ul li {
@@ -40,6 +40,6 @@ ul.posts {
 img {
     width: 75%;
     height: auto;
-    margin-left: auto;
+    margin-left: 100px;
     margin-right: auto;
 }
