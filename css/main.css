@@ -8,6 +8,7 @@ body {
     background-color: #FFFFFF;
 }
 nav ul, header ul {
+    margin: auto;
     display: flex;
     justify-content:space-around;
     list-style: none;
