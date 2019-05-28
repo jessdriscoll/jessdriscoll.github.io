@@ -14,7 +14,7 @@ nav ul, header ul {
     justify-content:space-around;
     list-style: none;
     font-size:200%;
-    font-family: 'Abril Fatface', cursive;
+    font-family: 'Abril Fatface', serif;
 }
 a {
     text-decoration: none;
