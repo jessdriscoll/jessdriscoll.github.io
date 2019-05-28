@@ -8,7 +8,8 @@ body {
     background-color: #FFFFFF;
 }
 nav ul, header ul {
-    padding: 10px;
+    display: flex;
+    justify-content:space-around;
     list-style: none;
     font-size:200%;
     font-family: 'Abril Fatface', cursive;
