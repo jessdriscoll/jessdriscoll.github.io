@@ -8,7 +8,7 @@ body {
     background-color: #FFFFFF;
 }
 nav ul, header ul {
-    padding:5px;
+    padding:10px;
     margin: auto;
     display: flex;
     justify-content:space-around;
