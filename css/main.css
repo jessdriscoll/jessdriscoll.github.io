@@ -14,9 +14,6 @@ nav ul, header ul {
     font-size:200%;
     font-family: 'Abril Fatface', cursive;
 }
-nav ul li, header ul li {
-    display: inline;
-}
 a {
     text-decoration: none;
     color: #E0AF7F;
