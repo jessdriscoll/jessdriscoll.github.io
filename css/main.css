@@ -12,7 +12,6 @@ nav ul, header ul {
     list-style: none;
     font-size:200%;
     font-family: 'Abril Fatface', cursive;
-    text-align:justify;
 }
 nav ul li, header ul li {
     display: inline;
@@ -42,4 +41,5 @@ img {
     width: 50%;
     height: auto;
     float: left;
+    padding: 5px;
 }
