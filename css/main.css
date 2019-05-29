@@ -19,12 +19,10 @@ nav ul, header ul {
 }
 a {
     text-decoration: none;
-    font-weight: bold;
     color: #FF3389;
 }
 a:hover {
     text-decoration: none;
-    font-weight: bold;
     color: #FF80B5;
 }
 p {
