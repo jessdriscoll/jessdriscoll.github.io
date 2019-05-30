@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Reading Log
+layout: post
+date: 2002-01-04
 ---
 
 January 04, 2002  
