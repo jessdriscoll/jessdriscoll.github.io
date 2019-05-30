@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Reading Log
-secondary: secondary
 ---
 
 January 04, 2002  
