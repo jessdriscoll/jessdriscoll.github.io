@@ -753,3 +753,80 @@ Bird by Bird by Anne Lamott
 
 December 11, 2011  
 Alice's Adventures in Wonderland & Through the Looking-Glass by Lewis Carroll
+
+January 12, 2012  
+Sticks & Stones by George Bowering
+
+January 14, 2012  
+Two Bowls of Milk by Stephanie Bolster
+
+January 15, 2012  
+The Uncollected Acorn by Milton Acorn
+
+January 16, 2012  
+Dig Up My Heart: Selected Poems 1952-83 by Milton Acorn
+
+>I'm either mad or just as good as Shakespeare.
+
+January 20, 2012  
+You Don't Get to Be a Saint by Patrick Friesen
+
+January 20, 2012  
+Flicker and Hawk by Patrick Friesen
+
+>it's old-fashioned being brave
+
+January 21, 2012  
+The Circle Game by Margaret Atwood
+
+>I don't wear gratitude   
+well. Or hats.
+ 
+January 22, 2012  
+Inward to the Bones: Georgia O'Keeffe's Journey with Emily Carr by Kate Braid
+
+>She can't see them,   insists   on painting my hills   in shades of British green.    They're everything but! I snap   Try purple! Try yellow! Try red!  
+She's drenched in green,   bewitched by it. Her eyes   drip curtains of tree colour.    When I am being kind, I think   she's either blind   or homesick.
+
+January 22, 2012  
+Evening Dance of the Grey Flies by P.K. Page
+
+January 24, 2012  
+To This Cedar Fountain by Kate Braid
+
+January 26, 2012  
+Feeling the Worlds by Dorothy Livesay
+
+January 27, 2012  
+The True Names of Birds by Sue Goyette
+
+>The world sometimes is a big wet dog shaking itself, the wag of trees,  
+the slobber of clouds. The little bark of bad news, of illness. We wanted to push it  
+off our lap, command it to sit, to stay. Obey, obey.
+
+January 31, 2012  
+Outskirts by Sue Goyette
+
+February 02, 2012  
+The Follow-Through Factor: Getting from Doubt to Done by Gene C. Hayden 
+
+April 07, 2012  
+How to Survive and Prosper as an Artist by Carroll Michels
+
+>The artist must not only be self-reliant, he must also remain vigilant of those who would co-opt his fire from heaven to roast marshmallows. (Eden Maxwell)
+
+April 12, 2012  
+Design is a Job by Mike Monteiro
+ 
+>Not only have we have forgotten how to use power tools, we've begun confusing building IKEA shelves with furniture-making.
+
+April 18, 2012  
+Making a Living Without a Job by Barbara J. Winter
+
+>When I worked at a job I hated, I spent every weekend shopping, hoping I could buy something that would make me feel better. Now that I'm doing work that I love, it is so satisfying that I need less money to support myself.
+
+April 24, 2012  
+Drawing: A Studio Guide by Lu Bro
+
+>Your images may suddenly seem "real" enough, even "pretty," but will actually have about the same authority a well-memorized phrase has to the sensitive uses of a foreign language.
+
