@@ -350,6 +350,8 @@ The Other 90% by Robert Cooper
 May 04, 2006  
 Why I Write by George Orwell
 
+>All writers are vain, selfish, and lazy, and at the very bottom of their motives there lies a mystery. Writing a book is a horrible, exhausting struggle, like a long bout of some painful illness. One would never undertake such a thing if one were not driven on by some demon whom one can neither resist nor understand.
+
 May 16, 2006  
 Nine Stories by J.D. Salinger
 
@@ -525,6 +527,8 @@ Their Eyes Were Watching God by Zora Neale Hurston
 
 May 29, 2008  
 Of Mice and Men by John Steinbeck
+
+>Maybe everybody in the whole damn world is scared of each other.
 
 May 18, 2008  
 Gossip Girl 5, 6 by Cecily Ziegesar
@@ -830,7 +834,474 @@ Drawing: A Studio Guide by Lu Bro
 
 >Your images may suddenly seem "real" enough, even "pretty," but will actually have about the same authority a well-memorized phrase has to the sensitive uses of a foreign language.
 
-TK
+June 04, 2012  
+Just So Stories by Rudyard Kipling
+
+>Be quiet, O you person without any form. I am going to sit on your head till morning, because there is something about you that I don't understand.
+
+November 02, 2012  
+Maps and Legends by Michael Chabon
+
+>You hope to spend your life doing what you love and need and have been fitted by nature or God or your protein-package to do: write, draw, sing, tell stories. But you have to eat.
+
+November 20, 2012  
+Pulphead by John Jeremiah Sullivan
+
+>It's the human condition to be confused. No other animal ever had an erroneous thought about nature.
+
+November 20, 2012  
+Henry IV, Part 1, 2, Henry V by William Shakespeare
+
+>This story shall the good man teach his son.
+
+December 31, 2012  
+Republic of Dreams by Ross Wetzsteon
+
+>Never, in fact, has a generation of radicals dedicated itself so fervently to experiencing happiness in the making of revolution.
+
+January 05, 2013  
+Pride & Prejudice by Jane Austen
+
+>I give you leave to like him. You have liked many a stupider person.
+
+January 12, 2013  
+How Sweet It Is by Sophie Gunn
+
+>Meanwhile, he'd developed a troubling fondness for baking as well as a curious addiction to cable cooking shows.
+
+January 19, 2013  
+Why He Didn't Call You Back by Rachel Greenwald
+
+February 02, 2013  
+Time Out by Jill Shalvis
+
+>After that, it was a blur of frenzied movements. She ripped his shirt off, he unzipped, and together they freed the essentials.  
+>And oh God, the essentials.
+
+February 03, 2013  
+Fever Pitch by Julie Elizabeth Leto 
+
+>Pure fantasy doesn't work for me. I need to know there's an element of reality or I can't suspend my disbelief long enough to enjoy the ride.
+
+February 03, 2013  
+The Sweet Spot by Kimberly Raye
+
+February 04, 2013  
+Sliding Home by Leslie Kelly
+
+September 17, 2013  
+Drift: The Unmooring of American Military Power by Rachel Maddow
+
+>The biggest moneymaking movie of 1986 was a Knights-of-the-Sky adventure pic that would have made Burgess Meredith and Hap Arnold blush: Top Gun. "Gentlemen," says our flight instructor, "this school is about combat. There are no points for second place." Young Tom Cruise was the lasciviously oiled, sun-burnished, leather-jacket-wearing, motorcycle-driving, soul-singing fighter pilot who overcomes self-doubt (a psychic leftover from his father's service record in Vietnam) and the training-exercise death of his best buddy/navigator ("Talk to me, Goose") to air-joust the Soviet MiG jets into bloodless submission and win the girl. Top Gun sold nearly fifty million tickets in US theatres.
+
+2013  
+The Fault in Our Stars by John Green
+
+2013  
+Playing For Time by Barbara Bretton
+
+June 10, 2014  
+Team of Rivals by Doris Kearns Goodwin
+
+July 15, 2014  
+Moby-Dick by Herman Melville
+
+August 23, 2014  
+10% Happier by Dan Harris
+
+August 24, 2014  
+Wherever You Go, There You Are by Jon Kabat-Zinn
+
+August 24, 2014  
+Help, Thanks, Wow: The Three Essential Prayers by Anne Lamott
+
+August 25, 2014  
+It's Not You: 27 (Wrong) Reasons You're Single by Sara Eckel
+
+September 5, 2014  
+The Mindful Way Through Depression by Mark Williams, John Teasdale, Zindel Segal, Jon Kabat-Zinn
+
+September 21, 2014  
+The True Secrets of Writing by Natalie Goldberg
+
+September 24, 2014  
+Fluent Forever by Gabriel Wyner
+
+October 05, 2014  
+An Unquiet Mind by Kay Redfield Jamison
+
+October 16, 2014  
+Walden by Henry David Thoreau
+
+>as is too common with writers, I got only my labor for my pains. However, in this case my pains were their own reward.
+
+October 20, 2014  
+If You Want to Write by Brenda Ueland
+
+October 20, 2014  
+Amelia Earhart by Doris Rich 
+
+October 23, 2014  
+The Astronaut Wives Club by Lily Koppel
+
+October 26, 2014  
+Gone Girl by Gillian Flynn
+
+October 28, 2014  
+Eating Animals by Jonathan Safran Foer
+
+November 29, 2014  
+Screw Work, Let's Play by John Williams
+
+December 9, 2014  
+The 12 Clichés of Selling by Barry Farber
+
+>There is nowhere they can turn to on the Net [sic], type in "This is my problem. I know I need a widget, but which widget do I need?," and get an intelligent answer.
+
+December 9, 2014  
+Poke the Box by Seth Godin
+
+December 13, 2014  
+All Marketers are Liars by Seth Godin
+
+December 13, 2014  
+Should I Do What I Love? By Katy McColl
+
+December 16, 2014  
+Choose Yourself by James Altucher
+
+December 18, 2014  
+Mindfulness in Plain English by Bhante Gunaratana
+
+December 20, 2014  
+Keeping the Breath in Mind & Lessons in Samadhi by Ajaan Lee Dhammadharo
+
+January 16, 2015  
+Wild by Cheryl Strayed
+
+January 17, 2015  
+Happy by Ian K. Smith
+
+January 18, 2015  
+Give It Up! by Mary Carlomagno
+
+January 21, 2015  
+Fitting in is Overrated by Leonard Felder
+
+January 31, 2015  
+Wheat Belly by William Davis
+
+February 05, 2015  
+Salt Sugar Fat by Michael Moss
+
+February 12, 2015  
+Less is More by Cecile Andrews and Wanda Urbanska
+
+February 14, 2015  
+Writing Through the Darkness by Elizabeth Maynard Schaefer
+
+February 25, 2015  
+No Animal Food by Rupert Weldon
+
+February 27, 2015  
+Make Your Creative Dreams Real by SARK
+
+March, 2015  
+The Faraway Nearby by Rebecca Solnit
+
+March 17, 2015  
+Food Matters by Mark Bittman
+
+March 19, 2015  
+Main Street Vegan by Victoria Moran
+
+April 03, 2015  
+Blue Nights by Joan Didion
+
+April 26, 2015  
+Creative Cure by Carrie and Alton Barron
+
+April 29, 2015  
+Art of Stillness by Pico Iyer
+
+April, 2015  
+Learning by Heart by Corita Kent and Jan Steward
+
+May 02, 2015  
+The Creative License by Danny Gregory
+
+July 01, 2015  
+Can't and Won't by Lydia Davis
+
+August 11, 2015  
+2k to 10k by Rachel Aaron
+
+August 19, 2015  
+Introverts in Love by Sophia Demobbing
+
+September 04, 2015  
+The Big Switch by Nicholas Carr
+
+September, 2015  
+The Feminine Mystique by Betty Friedan
+
+September 18, 2015  
+Cocaine Blues by Kerry Greenwood
+
+September 23, 2015  
+Flying Too High by Kerry Greenwood
+
+October 02, 2015  
+Murder on the Ballarat Train by Kerry Greenwood
+
+October 11, 2015  
+Death at Victoria Dock by Kerry Greenwood
+
+October, 2015  
+The Green Mill Murder by Kerry Greenwood
+
+October, 2015  
+Blood and Circuses by Kerry Greenwood
+
+October, 2015  
+Ruddy Gore by Kerry Greenwood
+
+October, 2015  
+Urn Burial by Kerry Greenwood
+
+October, 2015  
+Raisins and Almonds by Kerry Greenwood
+
+October 31, 2015  
+Death Before Wicket by Kerry Greenwood
+
+November, 2015  
+Away with the Fairies by Kerry Greenwood
+
+November 16, 2015  
+Murder in Montparnasse by Kerry Greenwood
+
+November 18, 2015  
+The Castlemaine Murders by Kerry Greenwood
+
+November 19, 2015  
+Writing down the bones by Natalie Goldberg 
+
+November 24, 2015  
+Queen of the Flowers by Kerry Greenwood
+
+November 24, 2015  
+True secret of writing by Natalie Goldberg
+
+November 26, 2015  
+Living with a wild god by Barbara Ehrenreich
+
+November 28, 2015  
+This could help by Patrick Rhone
+
+November 29, 2015  
+Death by Water by Kerry Greenwood
+
+December 01, 2015  
+Murder in the Dark by Kerry Greenwood
+
+December 01, 2015  
+A Vindication of the Rights of Women by Mary Wollstonecraft 
+
+December 06, 2015  
+Murder on a Midsummer Night by Kerry Greenwood
+
+December 08, 2015  
+Dead Man's Chest by Kerry Greenwood
+
+December 10, 2015  
+Unnatural Habits by Kerry Greenwood
+
+December 12, 2015  
+Murder and Mendelssohn by Kerry Greenwood
+
+December 15, 2015  
+The Paris Notebooks by Mavis Gallant
+
+December 17, 2015  
+A question of death by Kerry Greenwood
+
+>Jack Robinson then did something that confirmed him in Phryne's high regard. He sat down on his heels and spoke directly to the dog. (128)
+
+December 18, 2015  
+Consider the lobster by David Foster Wallace
+
+December 20, 2015  
+Frankenstein by Mary Shelley
+
+December 20, 2015  
+A Christmas Carol by Charles Dickens 
+
+January 06, 2016  
+Breathless by Lenore Fleischer
+
+January 10, 2016  
+Trish for President
+
+January 10, 2016  
+The Robber Bride by Margaret Atwood
+
+>"Listen, sweetie," said Roz. "There's just one thing I want you to remember. You know those chemicals women have in them, when they've got PMS? Well, men have the very same chemicals in them all the time."
+
+January 13, 2016  
+The Double Hook by Sheila Watson
+
+>There are things, she said, that can't be straightened out. They have to be pulled and wrenched and torn. And maybe just stay muddled up. Or pushed out of sight and left where they are. You can't tidy up people the way you can tidy up a room, she said. They're too narrow or too big. And even rooms, she said, don't take long to get untidy again. 
+
+January 16, 2016  
+Casualties of Peace by Edna O'Brien 
+
+>(Willa worked in glass: figures, windows, birds, crucifixes, mermaids, saints and martyrs all made of glass with glass expressions to denote emotion.) Should she reply by saying 'Thank you, but I would like you to appreciate the fact that glass is cold and chilling to the touch. Glass is not human. Neither is the glue with which I bind it. Nor the acid with which I treat it. Glass breaks, glass is fragile, it does not endure. You can look at it, you can look through it, but you do not discover anything more the closer you look, glass is monstrous to sleep with. Handling and holding glass you yearn for flesh.'
+
+2016  
+Fried Green Tomatoes at the Whistle Stop Café by Fannie Flagg
+
+May 21, 2016  
+An Unusual Courtship by Katherine Marlowe
+
+June 17, 2016  
+Whatcha gonna do with the that duck? by Seth Godin
+
+June 21, 2016  
+The Dip by Seth Godin
+
+June 22, 2016  
+Unleashing the Ideavirus by Seth Godin
+
+June 23, 2016  
+Permission Marketing by Seth Godin
+
+June 24, 2016  
+Tribes by Seth Godin
+
+June 25, 2016  
+Linchpin by Seth Godin
+
+July 11, 2016  
+Simple Dreams by Linda Ronstadt 
+
+July 17, 2016  
+Sonnets from the Portuguese by Elizabeth Barrett Browning
+
+July 17, 2016  
+England and Yesterday by Louise Imogen Guiney
+
+July 18, 2016  
+Sappho: A new rendering by Henry de Vere Stacpoole
+
+July 19, 2016  
+The Poems of Sappho: An Interpretative Rendition into English by John Myers O'Hara
+
+July 22, 2016  
+Love & Freindship [sic] by Jane Austen
+
+July 26, 2016  
+Bad Feminist by Roxane Gay
+
+September 02, 2016  
+Bringing yoga to life by Donna Farhi
+
+September 04, 2016  
+The science of yoga by William Broad
+
+September 07, 2016  
+Teaching yoga by Donna Farhi
+
+December 07, 2016  
+Fun Home by Alison Bechdel
+
+December 14, 2016  
+Seven Journals: Sketchbooks of Emily Carr by Doris Shadbolt
+
+December 27, 2016  
+Emily Carr by Maria Tippett
+  
+January 11, 2017  
+Hundred and Thousands by Emily Carr  
+
+>I would not kowtow. I did not push. Praise embarrassed me so that I wanted to hide. You've got to meet success half-way. I wanted it to come all the way, so we never shook hands. Life's queer.
+
+January 17, 2017  
+Opposite Contraries edited by Susan Crean
+
+January 22, 2017  
+Klee Wyck by Emily Carr
+
+January 31, 2017  
+When Emily Met Woo by Monica Kulling
+
+February 07, 2017  
+Emily Carr: An Intro to Her Life and Art by Anne Newlands
+
+February 11, 2017  
+This and That by Emily Carr
+
+>All young life is poetry, frightfully serious poetry.
+
+February 11, 2017  
+The Artist's Way by Julia Cameron
+
+>Going sane feels just like going crazy.
+
+February 17, 2017  
+The House of All Sorts by Emily Carr
+
+>Art being so much greater than ourselves, it will not give up once it has taken hold.
+
+February 26, 2017  
+The Book of Small by Emily Carr
+
+>Some wonders started inside you just like a stomach-ache. Some started outside things when you saw, smelled, heard, or felt them.
+
+February 26, 2017  
+Wildflowers by Emily Carr
+
+>Today has been wonderful, winter and spring shaking hands.
+
+March 6, 2017  
+Emily Carr and Her Dogs, Flirt, Punk, and Loo
+
+>I think I could turn and live with animals, they're so placid and self-contain'd, I stand and look at them long and long
+
+Walt Whitman, Song of Myself  
+epigraph
+
+April 20, 2017  
+Growing Pains by Emily Carr
+
+>First we pretended that Epping Forest was our Canadian woods, but it was no good, there was not one bit of similarity. We gave up and sipped England's sweetness happily. Here were trees venerable, huge and grand, but tamed. All Englands things were tame, self-satisfied, smug and meek—even the deer that came right up to us in the forest, smelled our clothes. There was no turmoil of undergrowth swirling round the boles of trees. The forest was almost like a garden—no brambles, no thorns, nothing to stumble over, no rotten stumps, no fallen branches, all mellow to look at, melodious to hear, every kind of bird, all singing, no awed hush, no vast echoes, just beautiful, smiling woods, not solemn, solemn, solemn like our forests. This exquisite, enchanting gentleness was perfect for one day, but not for always—we were Canadians.
+
+May 13, 2017  
+Emily Carr: New perspectives on a Canadian icon 
+
+>Indian Art broadened my seeing, loosened the formal tightness I had learned in England schools. Its bigness and stark reality baffled my white man's understanding. I was as Canadian-born as the Indian but behind me were old world heredity and ancestry well as Canadian environment. The new west called me, but my old world heredity, the flavour of my upbringing, pulled me back. I have been schooled to see outsides only, not struggle to pierce… I learned a lot from the Indians, but who except Canada herself could help me comprehend her great woods and spaces?
+
+May 14, 2017  
+Corpse Pose by Diana Killian
+
+May 19, 2017  
+A Day of Signs and Wonders by Kit Pearson
+
+June 14, 2017  
+Rise of the video game zinesters by Anna Anthropy
+
+June 17, 2017  
+The Blue Ribbon by Katherine Marlowe
+
+June 27, 2017  
+Unsettling Encounters: First Nations Imagery in the Art of Emily Carr by Gerta Moray
+
+>The popularity of images of Carr with her animals has distracted from her artistic professionalism and achievement.
+
+August 07, 2017  
+Buzz: Urban Beekeeping and the Power of the Bee by Lisa Jean Moore and Mary Kosut
+
+>We cannot simply intervene or unintervene and allow animals (domesticated in particular) to just be free because our consciousness is raised and our guilt is heightened. Certainly, we cannot open the doors to our apartments and free our dogs or unleash them on the street—the world humans have created would be quite uninhabitable for them.
 
 September 21, 2017    
 The Art and Business of Teaching Yoga by Amy Ippoliti and Taro Smith
