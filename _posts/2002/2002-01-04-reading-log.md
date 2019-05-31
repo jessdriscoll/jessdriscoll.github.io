@@ -830,3 +830,408 @@ Drawing: A Studio Guide by Lu Bro
 
 >Your images may suddenly seem "real" enough, even "pretty," but will actually have about the same authority a well-memorized phrase has to the sensitive uses of a foreign language.
 
+TK
+
+September 21, 2017    
+The Art and Business of Teaching Yoga by Amy Ippoliti and Taro Smith
+
+November 9, 2017    
+The Pattern in the Carpet: A Personal History with Jigsaws by Margaret Drabble
+
+>I love museum shops, although I slightly despise myself for doing so, and chide myself for the need to appropriate bits and pieces of culture instead of relying on the purity of unaided memory. 
+
+November 19, 2017    
+My Darling Nellie Grey by George Bowering
+
+>I also like the alphabet itself. It is repeated in an order that we all agree to, or at least follow, but it is an order that has no extrinsic meaning. It is outside the worlds of humanism, cause-and-effect, realism, logic, and so on. If you want to give up control of your materials, go for the alphabet.
+
+Ground Works: Avant-Garde for Thee edited by Christian Bök, introduction by Margaret Atwood 
+
+>not much was actual, therefore everything was potential.
+ 
+December 27, 2017    
+The Warrior Queens by Antonia Fraser
+
+>The two syndromes are ready to claim her: if holy chastity happens not to be the desired image, then extreme voracity replaces it.
+
+January 4, 2018  
+No Logo by Naomi Klein 
+
+>It is on-line that the purest brands are being built: liberated from the real-world burdens of stores and product manufacturing, these brands are free to soar, less as the disseminators of goods or services than as collective hallucinations.
+
+January 5, 2018  
+Sweet Valley Twins #24 Jumping to Conclusions by Jamie Suzanne
+
+January 7, 2018  
+A Room of One's Own by Virginia Woolf
+
+January 8, 2018  
+Three Guineas by Virginia Woolf
+
+The Great Spring by Natalie Goldberg
+
+>The Great Spring includes the Great Failure, the thoroughgoing reduction to nothing, to loss, disappointment, shame, betrayal. If we can stand still and attentive in our lives and not run away, even right in the middle of the ruins, we will find fertile ground. We will hear the sound of a songbird in a Paris chestnut tree—we may not know whether the song comes from inside us or outside. We may never have been to Paris, but it doesn't matter. We are penetrated, through and through.
+
+August 22, 2018  
+The Achievement Habit by Bernard Roth
+
+August 29, 2018  
+Business Boutique by Christy Wright
+
+>You have permission to do things that make you like yourself. It's not selfish; it's self-preservation
+
+August 31, 2018  
+The Creative Entrepreneur by Isa Maria Seminega
+
+September 04, 2018  
+The Handmade Marketplace by Kari Chapin
+
+September 12, 2018  
+Making a living without a job by Barbara Winter 
+
+>No matter how many ignore or reject you, if you are connected to a few kindred spirits, you can keep your soul in flight.
+
+September 22, 2018  
+The Magic of Tiny Business by Sharon Rowe
+
+September 26, 2018  
+Rilla of Ingleside by L.M. Montgomery
+
+September 29, 2018  
+Hymen by H.D.
+
+September 30, 2018  
+Sea Garden by H.D.
+
+October 07, 2018  
+Some Imagist Poets, 1916
+
+October 13, 2018  
+A Dome of Many-Colored Glass by Amy Lowell
+
+October 26, 2018  
+Sword Blades and Poppy Seeds by Amy Lowell
+
+November 09, 2018  
+Deep Work by Cal Newport
+
+November 14, 2018  
+Wildwood by Colin Meloy and Carson Ellis
+
+November 16, 2018  
+Julie and Romeo by Jeanne Ray
+
+November 21, 2018  
+The Enchanted Places by Christopher Milne
+
+November 22, 2018  
+From the Mixed-Up Files of Mrs. Basil E. Frankenweiler by E.L. Konigsburg
+
+November 24, 2018  
+Drama by Raina Telegemeier
+
+November 24, 2018  
+Uni the Unicorn by Amy Krouse Rosenthal
+
+November 24, 2018  
+Big Foot and Little Foot by Ellen Potter
+
+November 25, 2018  
+Rosetown by Cynthia Rylant
+
+November 25, 2018  
+Myth and Sexuality by Jamake Hightower
+
+November 26, 2018  
+I could do anything if I only knew what it was by Barbara Sher
+
+November 27, 2018  
+Legends of Vancouver by E. Pauline Johnson
+
+November 27, 2018  
+Pieces a collection of new voices edited by Stephen Chbosky
+
+November 28, 2018  
+Writing Irresistible Kidlit by Mary Kole
+
+November 29, 2018  
+Textbook by Amy Krouse Rosenthal
+
+November 29, 2018  
+Spilling Ink by Anne Mazer and Ellen Potter
+
+November 30, 2018  
+Herself Defined by Barbara Guest
+
+December 06, 2018  
+Perilous Trade: Book Publishing in Canada, 1946-2006 by Roy MacSkimming
+
+December 07, 2018  
+Still Writing by Dani Shapiro
+
+December 07, 2018  
+The Gold Leaf by Kirsten Hall and Matthew Forsythe
+
+December 07, 2018  
+Alma by Juana Martinez-Neal
+
+December 07, 2018  
+Mr. Pusskins by Sam Lloyd
+
+December 07, 2018  
+Jessica by Kevin Henkes
+
+December 07, 2018  
+Wonder Bear by Tao Nyen
+
+December 07, 2018  
+Taan's Moon by Alison Gear
+
+December 07, 2018  
+Skin Again by bell hooks and Christopher Raschka
+
+December 11, 2018  
+Southern Mail/Night Flight by Antoine-de-St-Exupéry
+
+December 12, 2018  
+Marat/Sade by Peter Weiss
+
+December 12, 2018  
+Adventures in Babysitting by Elizabeth Faucher
+
+December 13, 2018  
+The Goat by Anne Fleming
+
+December 14, 2018  
+Jacob Two-Two and the Hooded Fang by Mordecai Richler
+
+December 14, 2018  
+Olga (#1 and #2) by Elise Gavel
+
+December 16, 2018  
+Violet and Victor Write the Most Fabulous Fairy Tale by Alice Kuipers and Bethanie Deeney Murgula
+
+December 16, 2018  
+We Sang You Home by Richard Van Camp and Julie Flett
+
+December 16, 2018  
+Buddy and Earl by Maureen Fergus and Carey Sookocheff
+
+December 16, 2018  
+Crafty Cat #1 by Charise Mericle Harper
+
+December 16, 2018  
+Cat Wishes by Calista Brill and Kenard Park
+
+December 18, 2018  
+My Ántonia by Willa Cather
+
+December 22, 2018  
+Generation A by Douglas Coupland
+
+December 29, 2018  
+The Empathy Exams by Leslie Jamison
+
+December 30, 2018  
+Fairy Tales by Hans Christian Anderson
+
+December 30, 2018  
+Tales from Beatrix Potter
+
+December 31, 2018  
+The Lion, the Witch, and the Wardrobe by C.S. Lewis
+
+January 01, 2019  
+Prince Caspian by C.S. Lewis
+
+January 04, 2019  
+The Voyage of the Dawn Treader by C.S. Lewis
+
+January 05, 2019  
+The Silver Chair by C.S. Lewis
+
+January 05, 2019  
+The Horse and His Boy by C.S. Lewis
+
+January 07, 2019  
+The Magician's Nephew by C.S. Lewis
+
+January 09, 2019  
+Terence Conran on Design
+
+January 10, 2019  
+Civil War Poetry and Prose by Walt Whitman
+
+January 12, 2019  
+The Last Battle by C.S. Lewis
+
+January 16, 2019  
+Walt Whitman: A Life by Justin Kaplan
+
+January 19, 2019  
+Equus by Peter Shaffer
+
+January 20, 2019  
+Speakers of the Dead by J. Aaron Sanders
+
+January 21, 2019  
+Good Night Desdemona (Good Morning Juliet) by Anne-Marie MacDonald
+
+January 22, 2019  
+Kafka Americana by Jonathan Lethem and Carter Scholz
+
+January 22, 2019  
+Walt Whitman: Poetry for Kids by Karen Karbeiner and Kate Evans
+
+January 25, 2019  
+Waiting for Godot by Samuel Beckett
+
+January 26, 2019  
+Best Plays of 1998, edited by Marisa Smith (including Jocelyn Beard, Aviva Jane Carlin, Jessica Goldberg, Wendy MacLeod, Jill Morley, Val Smith, Erin Cressida Wilson)
+
+January 26, 2019  
+Alternative Shakespeare Auditions for Women by Simon Dunmore
+
+January 28, 2019  
+The Prince by Niccolò Machiavelli, trans. by David Wooton
+
+February 02, 2019  
+Walt Whitman: A Gay Life by Gary Schmidgall
+
+>"Still I say: I only gave myself: I got the boys, I got the Leaves."
+
+February 04, 2019  
+The Queen's Throat: Opera, Homosexuality, and the Mystery of Desire by Wayne Kostenbaum
+
+>I love to hear words lose separateness and become a liquid amalgam.
+
+February 04, 2019  
+The Modern Enneagram by Kacie Berghoef and Melanie Bell
+
+February 09, 2019  
+Full Circle by Michael Palin
+
+February 09, 2019  
+Reading People by Anne Bogel
+
+February 11, 2019  
+Basic Witches by Jess Zimmerman and Jaya Saxena
+
+February 11, 2019  
+Sahara by Michael Palin
+
+February 13, 2019  
+Do/Story: How to tell your story so the world listens by Bobette Buster
+
+February 14, 2019  
+Rapt by Winifred Gallagher
+
+>Deciding what to pay attention to for this hour, day, week, or year, much less a lifetime, is a peculiarly human predicament 
+
+February 16, 2019  
+Specimen Days by Michael Cunningham
+
+February 16, 2019  
+Bunnicula by Deborah and James Howe
+
+February 16, 2019  
+Three Gifts from the Green Dragon and other Chinese stories by Catherine Lim
+
+February 16, 2019  
+Adventures of Johnny Chuck by Thornton W. Burgess
+
+February 16, 2019  
+Art Before Breakfast by Danny Gregory
+
+February 17, 2019  
+In the Year of the Boar and Jackie Robinson by Bette Bao Lord
+
+February 22, 2019  
+The Five Love Languages by Gary Chapman
+
+February 23, 2019  
+The Highly Sensitive Person by Elaine Aron
+
+February 23, 2019  
+Call Me By Your Name by André Aciman
+
+>PS we are not written for one instrument alone; I am not, neither are you.
+
+February 25, 2019  
+You Need a Budget by Jesse Mecham
+
+February 27, 2019  
+Love Byte by Helane Zeiger
+
+February 27, 2019  
+A Boy Named Queen by Sara Cassidy
+
+March 03, 2019  
+Mother Bruce by Ryan T. Higgins
+
+March 03, 2019  
+Over and Under the Pond by Kate Messner
+
+March 03, 2019  
+After the Fall: How Humpty Dumpty Got Back Up Again by Dan Santat
+
+March 19, 2019  
+Collapse: How Societies Choose to Fail or Succeed by Jared Diamond
+
+>Each of us can imagine our own scenario for the end of Dorset culture. One guess of mine is that, among groups of Dorset people starving in a difficult winter, the women just deserted their men and walked over to Inuit camps where they knew that people were feasting on bowhead whales and ringed seals.
+ 
+March 24, 2019  
+On a Farther Shore: the Life and Legacy of Rachel Carson by William Souder
+
+March 29, 2019  
+Full Catastrophe Living by Jon Kabat-Zinn
+
+March 30, 2019  
+This I Know by Terry O'Reilly
+
+>People don't buy 3/4" drill bits. They buy 3/4" holes. (Theodore Leavitt)
+
+March 30, 2019  
+Digital Minimalism by Cal Newport
+
+April 03, 2019  
+The Perfect Storm by Sebastian Junger
+
+April 05, 2019  
+Seaworthy by Linda Greenlaw
+
+April 11, 2019  
+Women's Ways of Knowing: The Development of Self, Voice, and Mind by Mary Field Belenky, Blythe McVicker Clinchy, Nancy Rule Goldberger, Jill Mattuck Tarule
+
+April 15, 2019  
+Into Thin Air by Jon Krakauer
+
+April 16, 2019  
+Running Upon the Wires by Kate Tempest
+
+April 24, 2019  
+American Ground: Unbuilding the World Trade Center by William Langewiesche
+
+April 25, 2019  
+Gatsby's Girl by Caroline Preston
+
+May 10, 2019  
+Holy Wild by Gwen Benaway
+
+May 18, 2019  
+The Carrying by Ada Limón
+
+May 19, 2019  
+Useless Magic by Florence Welch
+
+May 19, 2019  
+River Woman by Katherena Vermette
+
+May 20, 2019  
+Take Me With You by Andrea Gibson
+
+May 20, 2019  
+Blood Water Paint by Joy McCullough
+
+May 22, 2019  
+Don't Call Us Dead by Danez Smith
