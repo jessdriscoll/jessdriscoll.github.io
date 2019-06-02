@@ -519,6 +519,11 @@ Angels in America by Tony Kushner
 May 16, 2008  
 In Defense of Food: An Eater's Manifesto by Michael Pollan
 
+May 18, 2008  
+Gossip Girl 5, 6 by Cecily Ziegesar
+
+>Was there something distinctly gay about Chuck Bass these days? Or perhaps not. Just because he'd gotten blond highlights and was wearing a slim, cream-colored wool coat by Ralph Lauren and orange leather Prada sneakers didn't mean he'd given up molesting defenseless, drunken girls at parties. Perhaps he was simply expressing himself.
+
 May 27, 2008  
 The Grapes of Wrath by John Steinbeck
 
@@ -529,9 +534,6 @@ May 29, 2008
 Of Mice and Men by John Steinbeck
 
 >Maybe everybody in the whole damn world is scared of each other.
-
-May 18, 2008  
-Gossip Girl 5, 6 by Cecily Ziegesar
 
 May 30, 2008  
 Cannery Row by John Steinbeck
@@ -556,8 +558,12 @@ Santa Monica Canyon by Gregory Hinton
 June 26, 2008  
 Breakfast with Scot by Michael Downing
 
+>Sam is my cup of tea, but sometimes you're just too tired to wait for the water to boil.
+
 July 09, 2008  
 Into the Wild by Jon Krakauer
+
+>Beautiful Blueberries (the last entry in Christopher McCandless's ersatz journal)
 
 July 12, 2008  
 Geography Club by Brent Hartinger
@@ -574,8 +580,15 @@ Rainbow High (1, 2, 3) by Alex Sanchez
 July 19, 2008  
 Post Captain by Patrick O'Brian
 
+>There is a great deal of noise, more noise than you would believe possible; and time does not seem to have the same meaning, if you follow me; and you get very tired. And afterwards you have to clear up the mess.
+
 September 21, 2008  
 Cambridge by Caryl Phillips
+
+September 30, 2008
+The Creative Habit by Twyla Tharp
+
+>Every detail feeds your art because it has nowhere else to go.
 
 November 23, 2008  
 Flaubert's Parrot by Julian Barnes
@@ -583,11 +596,17 @@ Flaubert's Parrot by Julian Barnes
 December 05, 2008  
 Wide Sargasso Sea by Jean Rhys
 
+>The heart know its own bitterness.
+
 December 10, 2008  
 Angels and Insects by A.S. Byatt
 
+>the Apostles in Cambridge, that learned society of young men who were going to change the world into something altogether more just and delightful.
+
 December 13, 2008  
 Nick & Norah's Infinite Playlist by Rachel Cohn and David Levithan
+
+>I would like to lie next to him in the dark and watch him breathe and watch him sleep and wonder what he's dreaming about and not get an inferiority complex if the dreams aren't about me.
 
 February 15, 2009  
 The Mayor of Castro Street: The Life and Times of Harvey Milk by Randy Shilts
