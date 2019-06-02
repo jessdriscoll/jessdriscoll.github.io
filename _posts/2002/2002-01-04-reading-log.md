@@ -1386,6 +1386,9 @@ Making a living without a job by Barbara Winter
 September 22, 2018  
 The Magic of Tiny Business by Sharon Rowe
 
+September 23, 2018  
+The Next Wave: An Anthology of 21st Century Canadian Poetry, edited by Jim Johnstone
+
 September 26, 2018  
 Rilla of Ingleside by L.M. Montgomery
 
