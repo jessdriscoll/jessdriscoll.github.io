@@ -536,6 +536,8 @@ Gossip Girl 5, 6 by Cecily Ziegesar
 May 30, 2008  
 Cannery Row by John Steinbeck
 
+>When you collect marine animals there are certain flat worms so delicate that they are almost impossible to capture whole, for they break and tatter under the touch. You must let them ooze and crawl of their own will onto a knife blade and then lift them gently into your bottle of sea water. And perhaps that might be the way to write this book--to open the page and to let the stories crawl in by themselves.
+
 May 31, 2008  
 Rosencrantz and Guildenstern Are Dead by Tom Stoppard
 
