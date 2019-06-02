@@ -758,6 +758,11 @@ The Top 10 Ways to Ruin the First Day of 5th Grade by Ken Derby
 September 17, 2011  
 The Brilliant Fall of Gianna Z. by Kate Messner
 
+September 17, 2011  
+Politicking: How to Get Elected, Take Action, and Make an Impact in Your Community by William Rauch
+
+>Be yourself: voters can spot a phoney mile away--and phonies don't get elected
+
 October 08, 2011  
 The Big Moo: Stop Trying to be Perfect and Start Being Remarkable by The Group of 33
 
