@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2012-06-08
+date: 2012-07-20
 ---
 
 I'll be at the Honeybee Festival again this year, July 21st and 22nd in Surrey, with zines and prints and more. I'll have my typewriter on the table, and I'll be taking requests.
