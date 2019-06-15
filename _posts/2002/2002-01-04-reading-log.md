@@ -719,8 +719,12 @@ Nureyev: The Life by Julie Kavanagh
 January 20, 2011  
 Just Kids by Patti Smith
 
+>While I was reading Genet, it was as if he was becoming Genet.
+
 June 30, 2011  
 Wild Mind: Living the Writer's Life by Natalie Goldberg
+
+>And be brave. Let some of the good writing go. Don’t worry. There’ll be lots of it over time. You can’t use all of it. Be generous and allow some of it to lie fallow. What a relief! We can write well and let it go. That’s as good as writing poorly and letting it go. Just let it go.
 
 July 2011  
 The Renaissance Soul: Life Design for People with Too Many Passions to Pick Just One by Margaret Lobenstine
