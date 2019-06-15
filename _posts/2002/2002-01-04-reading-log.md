@@ -769,6 +769,8 @@ The Big Moo: Stop Trying to be Perfect and Start Being Remarkable by The Group o
 October 26, 2011  
 Lonely: A Memoir by Emily White
 
+>quite poignantly, the hearts of the lonely, as though unexercised, beat more slowly than the hearts of the nonlonely.
+
 November 05, 2011  
 Fair Game by Josh Lanyon
 
@@ -780,6 +782,8 @@ Confessions of a Freelance Penmonkey by Chuck Wendig
 
 December 04, 2011  
 Bird by Bird by Anne Lamott
+
+>Over and over I feel as if my characters know who they are, and what happens to them, and where they have been and where they will go, and what they are capable of doing, but they need me to write it down for them because their handwriting is so bad.
 
 December 11, 2011  
 Alice's Adventures in Wonderland & Through the Looking-Glass by Lewis Carroll
@@ -815,8 +819,18 @@ well. Or hats.
 January 22, 2012  
 Inward to the Bones: Georgia O'Keeffe's Journey with Emily Carr by Kate Braid
 
->She can't see them,   insists   on painting my hills   in shades of British green.    They're everything but! I snap   Try purple! Try yellow! Try red!  
-She's drenched in green,   bewitched by it. Her eyes   drip curtains of tree colour.    When I am being kind, I think   she's either blind   or homesick.
+>She can't see them,  
+insists  
+on painting my hills  
+in shades of British green.   
+They're everything but! I snap  
+Try purple! Try yellow! Try red!  
+She's drenched in green,  
+bewitched by it. Her eyes  
+drip curtains of tree colour.   
+When I am being kind, I think  
+she's either blind  
+or homesick.
 
 January 22, 2012  
 Evening Dance of the Grey Flies by P.K. Page
@@ -1735,3 +1749,12 @@ Blood Water Paint by Joy McCullough
 
 May 22, 2019  
 Don't Call Us Dead by Danez Smith
+
+June 08, 2019  
+Designing Your Life by Bill Burnett and Dave Evans
+
+June 10, 2019  
+Alive with Vigor, edited by Robert Earl Sutter III
+
+June 11, 2019  
+Learning Good Consent by Cindy Crabb
