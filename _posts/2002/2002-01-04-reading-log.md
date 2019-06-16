@@ -735,6 +735,8 @@ The Write Track: How to Succeed as a Freelance Writer in Canada by Betty Jane Wy
 July 14, 2011  
 How to Be Alone by Jonathan Franzen
 
+>The first lesson reading teaches is how to be alone.
+
 August 06, 2011  
 The Last Campaign: Robert F. Kennedy and 82 Days That Inspired America by Thurston Clarke
 
