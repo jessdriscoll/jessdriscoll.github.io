@@ -117,6 +117,8 @@ Our Noise by Jeff Gomez
 May 31, 2002  
 American Whiskey Bar by Michael Turner
 
+>I assure you that I will continue to go out of my way to tell you, if ever you want me to at any time, at any place, wherever you may be everything this movie has done, everything this movie is capable of doing, and, for as long as I live, everything this movie is not. (182)
+
 June 03, 2002  
 The Catcher in the Rye by J.D. Salinger
 
@@ -185,6 +187,8 @@ Souvenir of Canada by Doug Coupland
 December 29, 2002  
 His Tongue by Lawrence Schimel
 
+>"You have so little imagination," Robert complained. He lifted the top half of the blender from its base and held it before him. "Sometimes I wonder how I could have married you," he said, switching places, so that Steve was pressed up against the counter. "But then I remember." (54)
+
 December 30, 2002  
 Running with Scissors by Augusten Burroughs
 
@@ -218,6 +222,8 @@ The Cheese Monkeys by Chip Kidd
 
 April 23, 2003  
 The Fuck-Up by Arthur Nersesian
+
+>Not knowing what else to say, I nervously said, "How do you do? I'm straight." And then I bolted out. (51)
 
 April 28, 2003  
 Party of One by Anneli Rufus
@@ -582,16 +588,10 @@ Post Captain by Patrick O'Brian
 
 >There is a great deal of noise, more noise than you would believe possible; and time does not seem to have the same meaning, if you follow me; and you get very tired. And afterwards you have to clear up the mess.
 
-September 21, 2008  
-Cambridge by Caryl Phillips
-
 September 30, 2008
 The Creative Habit by Twyla Tharp
 
 >Every detail feeds your art because it has nowhere else to go.
-
-November 23, 2008  
-Flaubert's Parrot by Julian Barnes
 
 December 05, 2008  
 Wide Sargasso Sea by Jean Rhys
@@ -668,11 +668,21 @@ Street Gang: The Complete History of Sesame Street by Michael Davis
 January 07, 2010  
 No Applause--Just Throw Money: The Book That Made Vaudeville Famous by Trav S.D.
 
+>If Eddie Van Halen had played his guitar the way most magicians do magic, he never would have gotten laid.
+
+Penn Jillette
+
 January 12, 2010  
 Gasping for Airtime: Two Years in the Trenches of Saturday Night Live by Jay Mohr
 
+>Saturday Night Live is like an uncle you hate paying for all four years at Harvard.
+
+Julia Sweeney
+
 January 16, 2010  
 Carter Beats the Devil by Glen David Gold
+
+>It looked like having your own piece of the world under glass. For a long moment, Philo and Pem Farnsworth held each other. Their bodies were bathed in the blue light of the screen. “Pem, I’d like you to meet television.”
 
 January 17, 2010  
 When Television was Young: The Inside Story with Memories by Legends of the Small Screen by Ed McMahon
@@ -695,26 +705,50 @@ Secret Ingredient: Love by Teresa Southwick
 April 22, 2010  
 The Proving Ground: The Inside Story of the 1998 Sydney to Hobart Race by G. Bruce Knecht
 
+>We’re not going until we have to step up to the fucking raft.
+
 May 13, 2010  
 Loving Jack by Nora Roberts
 
 May 21, 2010  
-Small if Possible: Life in a Local Economy by Lyle Estill
+Small is Possible: Life in a Local Economy by Lyle Estill
+
+>The manager of the Town of Pittsboro did not know how to grant a business license to a software company. He was a creative and flexible man, and after enough conversation we concurred that it would probably be okay if we were permitted to operate under the category of “Small Appliance Repair.”
 
 July 01, 2010  
-It's Not About the Bike: My Journey Back to Life by Lance Armstrong
+It's Not About the Bike: My Journey Back to Life by Lance Armstrong and Sally Jenkins
+
+>Back in the early 1900s, when the mountain climbs were added to the Tour for the first time, one rider completed the journey up on his ponderous old contraption, and then turned to race organizers at the roadside and screamed, "You're all murderers!"
 
 July 07, 2010  
 Band of Brothers: E Company, 506th Regiment, 101st Airborne from Normandy to Hitler's Eagle's Nest by Stephen E. Ambrose
 
+>Like all writers, he was composing his description of the event as it happened.
+
 July 17, 2010  
 Parachute Infantry: An American Paratropper's Memoir of D-Day and the Fall of the Third Reich by David Kenyon Webster
+
+July 19, 2010  
+Generation Kill by Evan Wright
+
+>Recon Marines like Colbert are in their hearts almost like bird-watchers. They have a passion for observing things that exists all by itself, separate from whatever thrills they get out of guns and blowing things up. (179)
+
+August 04, 2010  
+Nureyev: The Life by Julie Kavanagh
+
+>He was also finding it hard to accustom himself to traditional English cooking, although it was two weeks before he confessed to hating cold roast beef. Beef–preferably in the form of an entrecôte steak–had to be thick, blue, and hot before he would eat it; when it arrived he would slice off a piece to see if it was rare enough, then test the temperature with his tongue–sometimes even his cheek. Only steak, he believed, could give him the extra stamina he needed onstage, and when Margot took him to meet her mother for the first time, they heard him mutter disapprovingly when the food appeared, “Chicken dinner, chicken performance.” (215)
 
 August 05, 2010  
 Breaking News: A Stunning and Memorable Account of Reporting from Some of the Most Dangerous Places of the World by Martin Fletcher
 
-August 2010  
-Nureyev: The Life by Julie Kavanagh
+>A hundred thousand Bangladeshis killed in a flood equaled ten thousand Africans killed by a famine equaled five hundred Egyptians eaten by crocodiles on the Nile equaled five British soldiers killed in Northern Ireland equaled two of the queen’s corgi dogs run over by a bus. (75)
+
+McClurke’s Law of what gets on the air, named after an editor at BBC radio.
+
+August 18, 2010  
+Left Hook: A Sideways Look at Canadian Writing by George Bowering
+
+>I have known several writers, famous for representing their neighbourhoods in Montreal and Toronto, who came out, had a look at the mountains and bicycles, and announced they could not comprehend the possibility of human life in such a place. (59)
 
 January 20, 2011  
 Just Kids by Patti Smith
@@ -793,6 +827,18 @@ Bird by Bird by Anne Lamott
 
 December 11, 2011  
 Alice's Adventures in Wonderland & Through the Looking-Glass by Lewis Carroll
+
+>‘You couldn’t have it if you DID want it,’ the Queen said. 'The rule is, jam to-morrow and jam yesterday--but never jam to-day.’
+
+December 13, 2011  
+Where We Stand: 30 Reasons For Loving Our Country by Roger Rosenblatt
+
+>The country was, always is, a romance; to inspire, one has to presume a level of intimacy with its highest purposes.
+
+December 31, 2011  
+Politics by Aristotle
+
+>when a revolution takes place shall we say the men are the same, but the city is different
 
 January 12, 2012  
 Sticks & Stones by George Bowering
@@ -893,7 +939,7 @@ Maps and Legends by Michael Chabon
 November 20, 2012  
 Pulphead by John Jeremiah Sullivan
 
->It's the human condition to be confused. No other animal ever had an erroneous thought about nature.
+>It's the human condition to be confused. No other animal ever had an erroneous thought about nature. (202)
 
 November 20, 2012  
 Henry IV, Part 1, 2, Henry V by William Shakespeare
@@ -946,8 +992,15 @@ The Fault in Our Stars by John Green
 2013  
 Playing For Time by Barbara Bretton
 
+January 02, 2014  
+City of Night by John Rechy
+
+>It’s that limbo-time in Los Angeles arbitrarily called “spring,” merely because, technically, summer hasn't come. 
+
 June 10, 2014  
 Team of Rivals by Doris Kearns Goodwin
+
+>In mid-October, he replied to eleven-year-old Grace Bedell, who had recommended that he grow a beard, “for your face is so thin” and “all the ladies like whiskers.” After lamenting the fact that he had no daughter of his own, he wondered: “As to the whiskers, having never worn any, do you not think people would call it a piece of silly affectation if I were to begin it now?” Nonetheless, he proceeded to grow beard. (324)
 
 July 15, 2014  
 Moby-Dick by Herman Melville
@@ -1314,8 +1367,7 @@ Emily Carr and Her Dogs, Flirt, Punk, and Loo
 
 >I think I could turn and live with animals, they're so placid and self-contain'd, I stand and look at them long and long
 
-Walt Whitman, Song of Myself  
-epigraph
+epigraph, from Walt Whitman, Song of Myself  
 
 April 20, 2017  
 Growing Pains by Emily Carr
@@ -1382,9 +1434,15 @@ Sweet Valley Twins #24 Jumping to Conclusions by Jamie Suzanne
 January 7, 2018  
 A Room of One's Own by Virginia Woolf
 
+>A woman must have money and a room of her own if she is to write fiction.
+
 January 8, 2018  
 Three Guineas by Virginia Woolf
 
+2018  
+Orlando by Virginia Woolf
+
+2018  
 The Great Spring by Natalie Goldberg
 
 >The Great Spring includes the Great Failure, the thoroughgoing reduction to nothing, to loss, disappointment, shame, betrayal. If we can stand still and attentive in our lives and not run away, even right in the middle of the ruins, we will find fertile ground. We will hear the sound of a songbird in a Paris chestnut tree—we may not know whether the song comes from inside us or outside. We may never have been to Paris, but it doesn't matter. We are penetrated, through and through.
@@ -1444,6 +1502,10 @@ Julie and Romeo by Jeanne Ray
 November 21, 2018  
 The Enchanted Places by Christopher Milne
 
+2018  
+The Tale of Beatrix Potter by Margaret Lane
+>Conveying truth by means of fantasy, enlarging our perception of life by poetic means, is one of the highest functions of art.
+
 November 22, 2018  
 From the Mixed-Up Files of Mrs. Basil E. Frankenweiler by E.L. Konigsburg
 
@@ -1486,6 +1548,8 @@ Herself Defined by Barbara Guest
 December 06, 2018  
 Perilous Trade: Book Publishing in Canada, 1946-2006 by Roy MacSkimming
 
+>Scoffing at breathless media stories of young Japanese reading novels on their cellphones, older folks doubted that most North Americans would want to read long narrative texts on a small screen, however high-resolution. Instead, readers would continue to prefer that highly portable, sensually appealing, lovably familiar piece of technology, the book, so adaptable to bath, bed, or exercise bike.
+
 December 07, 2018  
 Still Writing by Dani Shapiro
 
@@ -1514,7 +1578,9 @@ December 11, 2018
 Southern Mail/Night Flight by Antoine-de-St-Exupéry
 
 December 12, 2018  
-Marat/Sade by Peter Weiss
+The Persecution and Assassination of Jean-Paul Marat as Performed by the Inmates of the Asylum of Charenton Under the Direction of the Marquis de Sade by Peter Weiss
+
+>Marat we’re poor and the poor stay poor / Marat don’t make us wait any more / We want our rights and we don’t care how / We want our Revolution NOW
 
 December 12, 2018  
 Adventures in Babysitting by Elizabeth Faucher
@@ -1682,6 +1748,8 @@ You Need a Budget by Jesse Mecham
 
 February 27, 2019  
 Love Byte by Helane Zeiger
+
+>“I can’t wait to do my homework tonight,” a girl named Jennifer Sanborn says to me. “We’ve got to do something to stop the PTA. If I can’t play Gobble-Girl after school, for sure I’ll die!”
 
 February 27, 2019  
 A Boy Named Queen by Sara Cassidy
