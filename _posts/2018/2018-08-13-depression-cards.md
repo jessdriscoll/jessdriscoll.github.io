@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Depression"
+title: "Depression Cards"
 date: 2018-08-13
 ---
 
