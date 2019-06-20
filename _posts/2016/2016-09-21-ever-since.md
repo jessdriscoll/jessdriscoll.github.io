@@ -1,6 +1,5 @@
 ---
 layout: post
-title: "Zine"
 date: 2016-09-21
 ---
 
