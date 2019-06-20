@@ -31,4 +31,36 @@ I can hear the water of the river, and I can hear the birds, but I can’t hear 
 
 You can find these places wherever you live, but this is why I live here. This is what my wild place looks like.
 
-[Download the zine.](http://jessdriscoll.com/files/tavistock.pdf)
+---
+
+IN TOWN
+
+Blacksmith Bakery  
+102-9190 Church Street
+
+Hipster as an adjective, not a pejorative. Hanging rolling pins are decor. Big space and tables outside. The best London Fog I've had yet.
+
+Republica Coffee  
+9203 Glover Road
+
+Around the corner and down the alley. Really good coffee, and I don't like coffee. Sit outside when it's nice outside.
+
+Wendel's Cafe  
+103-9233 Glover Road
+
+The iconic corner cafe. Books and sandwiches. Always crowded on the weekends, for good reason.
+
+Bella & Wren  
+2-9110 Glover Road
+
+Beautiful things I wish I could afford. Smells like the beach and the orchard. Expensive, but not pretentious. 
+
+Mangia E Scappa  
+9205 Glover Road
+
+Tiny, so don't miss the door like I did the first few times. Fresh Italian food to go and ingredients to cook at home.
+
+Fort Langley Artists Group   
+at the corner of Mavis and Glover Road
+
+An art gallery inside the old CN Railroad station. A community of artists, mostly older, but they're the ones who can afford to live here these days.
