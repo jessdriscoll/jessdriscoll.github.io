@@ -1832,3 +1832,20 @@ Alive with Vigor, edited by Robert Earl Sutter III
 
 June 11, 2019  
 Learning Good Consent by Cindy Crabb
+
+June 16, 2016  
+Support by Cindy Crabb
+
+June 26, 2019  
+You are a badass every day by Jen Sincero
+
+June 27, 2019  
+She felt like feeling nothing by r.h. Sin
+
+June 29, 2019  
+You are a badass at making money by Jen Sincero
+
+>I can’t tell you how much time I wasted (okay, forty years) pretending I could do things differently, instead of acting on ideas that seemed out of my reach or would have cost me money I didn’t want to spend. In other words, ideas that would have forced me to grow. I blazed by countless strokes of genius without even giving these ideas the time of day, just instantly tossed them aside as impossible. Next! Then back to complaining, spinning out, wondering why oh why can’t I get out of my suckhole? The Universe must have been like, I just gave you exactly what you asked for! Are you freaking kidding me?
+
+June 30, 2019  
+Magical Negro by Morgan Parker
