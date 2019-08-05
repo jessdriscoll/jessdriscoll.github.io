@@ -1849,3 +1849,9 @@ You are a badass at making money by Jen Sincero
 
 June 30, 2019  
 Magical Negro by Morgan Parker
+
+July 21, 2019  
+Electric Arches by Eve L. Ewing
+
+August 02, 2019  
+Abigail Adams by Woody Holton
