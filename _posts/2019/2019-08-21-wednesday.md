@@ -8,4 +8,4 @@ date: 2019-08-21
 - they didn’t
 - home
 
-<a href="{{page.previous.url}}">previous: {{page.previous.title}}</a>
+<a href="{{page.previous.url}}">previous</a> / <a href="{{page.next.url}}">next</a>
