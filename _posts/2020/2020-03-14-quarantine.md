@@ -3,7 +3,7 @@ layout: post
 date: 2020-03-14
 ---
 
-BC hasn't declared an official quarantine. Public school is out for two weeks spring break now, so there's no need to close down the schools. (I'm still waiting on word if I go back to teaching on Monday; my bosses are Korean, and we've been diligent about gloves and cleaning all month). My cough is still hanging on, and the cold outside means my nose is running constantly. But with no fever, I'm confident the worst of my February flu is over (yes, it lasted all of February).
+BC hasn't declared an official quarantine, but "social distancing" and no out-of-country travel is strongly advised. Public school is out for two weeks spring break now, so there's no need to close down the schools. (I'm still waiting on word if I go back to teaching on Monday; my bosses are Korean, and we've been diligent about gloves and cleaning all month). My cough is still hanging on, and the cold outside means my nose is running constantly. But with no fever, I'm confident the worst of my February flu is over (yes, it lasted all of February).
 
 The first Canadian casualty of COVID-19 happened right here in the Lower Mainland, a senior in a group home. We have the largest immigrant population from China here. All of my students are from China or Korea. It would be really nice if my office closed down for the next two weeks (we usually have fewer students during school breaks anyway), but I don't anticipate it happening. I take comfort in my small classes, so the biggest number of little kids I'll come in contact with is 9.
 
