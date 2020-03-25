@@ -23,7 +23,7 @@ date: 2020-03-24
 
 10. My brain likes to remind me of all the things I "should" be doing. I "should" be trying harder. I "should" be where everyone else is. I "should" be writing more. That last one? It's not only the most common refrain, but the oldest, too.
 
-11. When I started this post, when I needed to write something in the TITLE space, I heard that first lyric from "Eli's Coming" by Three Dog Night, which I will always remember from the SPORTS NIGHT episode from the same name. Dan always thought Eli was a bad situation coming (Casey explains, however, that Eli is an inveterate womaniser). The song opens with a low organ and a mournful call. 
+11. When I started this post, when I needed to write something in the TITLE space, I heard in my head that first lyric from ["Eli's Coming" by Three Dog Night](https://www.youtube.com/watch?v=hsy4aBH3bLo), which I will always remember from the SPORTS NIGHT episode from the same name. Dan always thought Eli was a bad situation coming (Casey explains, however, that Eli is an inveterate womaniser). The song opens with a low organ and a mournful call. 
 
 12. Eli's always been coming, and now he's here.
 
