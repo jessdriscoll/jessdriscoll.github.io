@@ -1855,3 +1855,57 @@ Electric Arches by Eve L. Ewing
 
 August 02, 2019  
 Abigail Adams by Woody Holton
+
+January 06, 2020  
+Mastering Adulthood by Lara E. Fielding
+
+January 19, 2020  
+The Orchid Thief by Susan Orlean
+
+February 05, 2020  
+Z by Therese Anne Fowler
+
+February 16, 2020  
+Conversations with my Elders by Boze Hadleigh
+
+February 18, 2020  
+Dining Along the Amazon by Timothy Findley
+
+February 20, 2020  
+Stones by Timothy Findley
+
+February 26, 2020  
+Queer in America by Michelangelo Signorile
+
+February 29, 2020  
+Jane Sexes It Up, edited by Merri Lisa Johnson
+
+March 10, 2020  
+Secret Historian by Justin Spring
+
+March 11, 2020  
+Confessions of a Fairy's Daughter by Alison Wearing
+
+March 15, 2020  
+The Men From the Boys by William J. Mann
+
+March 16, 2020  
+Olle Eksell--Of Course! by David Castenfors
+
+March 22, 2020  
+Master of Ceremonies by Joel Grey
+
+March 27, 2020  
+Small Town Talk by Barney Hoskyns
+
+April 08, 2020  
+Luncheonette by Steven Sorrentino
+
+April 20, 2020  
+Summer of My Amazing Luck by Miriam Toews
+
+April 30, 2020  
+The Secret Life of Glenn Gould by Michael Clarkson
+
+May 11, 2020  
+Provence, 1970 by Luke Barr
