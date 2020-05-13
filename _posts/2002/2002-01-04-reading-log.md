@@ -1856,6 +1856,9 @@ Electric Arches by Eve L. Ewing
 August 02, 2019  
 Abigail Adams by Woody Holton
 
+December 17, 2019  
+Queer by William S. Burroughs 
+
 January 06, 2020  
 Mastering Adulthood by Lara E. Fielding
 
