@@ -3,6 +3,8 @@ layout: post
 date: 2019-08-02
 ---
 
+[This post was first written for my newsletter. Follow the link to subscribe.](https://jessdriscoll.substack.com/p/-summer-break-for-teachers--19-02-08)
+
 When we moved into my parents’s current house, almost 15 years ago, the previous owners had created a sandbox in the backyard for an above-ground pool. So my parents bought an above-ground pool, too, and it’s gone up every summer. My dad rigs up a solar heating system with dozens of metres of black piping on the roof, but this year, there have been too many off-days in between the blistering heat. It hasn’t been a good swimming summer.
 
 It’s been a much better summer for teaching, though. Last June, I came home from my Palm Spring vacation to literally no students. I taught only one or two days for the months of July and August. This year, July was good—I can pay my August rent. September, though, remains to be seen. If you’ve been thinking about buying one (or more) of my zines, now is a very good time.
