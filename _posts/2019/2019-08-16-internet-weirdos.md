@@ -3,6 +3,8 @@ layout: post
 date: 2019-08-16
 ---
 
+[This post was first written for my newsletter. Follow the link to subscribe.](https://jessdriscoll.substack.com/p/-art-is-just-noticing-what-others-20-04-08)
+
 As social networks move from the public space to private, I’m spending more time in Slack with the group of internet weirdos I met at [XOXO](https://xoxofest.com) last year. The festival’s tagline is “for independent artists who live and work online.” That first verb is the important one.
 
 The internet and I grew up together. It moved into our living room when I was 14. I learned how to be a writer in public. I taught myself code. All of my friends live inside these wires.
