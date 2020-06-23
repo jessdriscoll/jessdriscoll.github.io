@@ -1912,3 +1912,5 @@ The Secret Life of Glenn Gould by Michael Clarkson
 
 May 11, 2020  
 Provence, 1970 by Luke Barr
+
+<a href="{{page.previous.url}}">previous</a> / <a href="{{page.next.url}}">next</a>
