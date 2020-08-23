@@ -38,3 +38,5 @@ There are a lot more BLTC weeks ahead of us. And with the speed at which our wor
 I never thought I’d be single this long. The world tells introverts, you’ll find the right person eventually. I’m afraid I’ve missed my chance. This life is my life now. I have to make it what I want.
 
 PS I took a self-portrait the morning my dad and I drove across the river so I could have my first cavity filled. My dentist only started taking patients again two weeks ago—in a different office to allow the maximum distancing. This checkup was scheduled last year, and despite the trip, the unexpected cavity, the screening, the PPE, it was a nice piece of normal amidst everything that’s not.
+
+<a href="{{page.previous.url}}">previous</a> / <a href="{{page.next.url}}">next</a>
