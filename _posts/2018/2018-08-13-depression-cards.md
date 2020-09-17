@@ -45,3 +45,5 @@ Everything counts if you decide it counts. I have a card that reads, “Set a ti
 This is a game of gentle motivation. Start easy on yourself. Make a card you know you can complete every day. On a good day, I can do half my cards. Another day, just a few. You cannot lose this game. If you discover one night that you haven’t completed a single card, make a new one, and do it right away. The game keeps going because you want it to.
 
 You can download [a PDF](https://jessdriscoll.itch.io/depression-cards) with a list of example cards.
+
+[Update 2020-08-24: Broken Pencil reviewed this zine!](https://brokenpencil.com/news/depression-cards-a-game-for-life-helps-expand-your-mental-health-toolbox/)
