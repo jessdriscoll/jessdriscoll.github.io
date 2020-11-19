@@ -17,7 +17,7 @@ My blog posts here previously lived at Livejournal, at Wordpress (both .org and 
 
 Here at my name dot com, every word belongs to me. This site is hosted by GitHub, which is a code repository, not a social media platform. Each post is written in simple Markdown text. It took me years to get here, but I love this place I've created. 
 
-I'll continue to write weekly letters on Substack because email, like text files, is one of the internet's oldest technologies and not going anywhere. Sending an email to my tiny list feels like having a few dozen penpals, except I don't have to hurt my hand writing each and every one. [You can subscribe here](https://jessdriscoll.substack.com), and any time you want to say hello, just tap reply. Those emails come straight to me.
+I'll continue to write weekly letters on Substack because email, like text files, is one of the internet's oldest technologies, and it's not going anywhere. Sending an email to my tiny list feels like having a few dozen penpals, except I don't have to hurt my hand writing each and every one. [You can subscribe here](https://jessdriscoll.substack.com), and any time you want to say hello, just tap reply. Those emails come straight to me.
 
 But as we head into the new year, I'm thinking about resolutions already. I'm not sure there's ever been a year I didn't want to "blog more." Even sending two letters a week to my list, I worry I'm intruding too much. But if you really want to read more (or if you want to read my Substack letters without subscribing to email), [here's the link to add this blog to your RSS reader](http://jessdriscoll.com/blog/atom.xml) (RIP Google Reader). 
 
