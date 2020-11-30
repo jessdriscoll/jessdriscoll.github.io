@@ -1913,4 +1913,24 @@ The Secret Life of Glenn Gould by Michael Clarkson
 May 11, 2020  
 Provence, 1970 by Luke Barr
 
+July 10, 2020  
+Unapologetic by Charlene Carruthers
+
+July 23, 2020  
+Open Heart, Open Mind by Clara Hughes
+
+September 19, 2020  
+Magical Negro by Morgan Parker
+
+October 16, 2020  
+The Blue Hour of the Day by Lorna Crozier
+
+October 31, 2020  
+Can't Even by Anne Helen Petersen
+
+November 28, 2020  
+Upstream by Mary Oliver
+
+November 29, 2020  
+Marshall McCluhan by Douglas Coupland
 <a href="{{page.previous.url}}">previous</a> / <a href="{{page.next.url}}">next</a>
