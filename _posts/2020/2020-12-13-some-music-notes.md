@@ -14,3 +14,5 @@ date: 2020-12-13
 5. The clock just ticked over to December 14th. I haven't listened to much Christmas music yet this year. I have a playlist, but it's not complete. Most of the songs I really want to hear are on my mom's computer, the family vault of digital music. The first album on the playlist is Robbie Williams's The Christmas Present, a double album of "past" and "future" songs. I didn't give this album its due when it came out last year, but tonight, I listened to it straight through, and I'm feeling it now. I'm feeling the Christmas spirit.
 
 6. (I really can't believe the labels didn't manage to wring a Christmas album out of One Direction before they broke up. Megan and I decided tonight that Niall is the one most likely. I had forgotten how much he loves Bublé. I'm pretty sure Harry won't make a Christmas album until he's in his aging rock star phase, à la Rod Stewart (who does two! songs on Robbie's album), but that's fine with me because I'm also sure that only Niall could convince Harry to make an appearance (or two) on his album.)
+
+<a href="{{page.previous.url}}">previous</a> / <a href="{{page.next.url}}">next</a>
