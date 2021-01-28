@@ -3,7 +3,7 @@ body {
     width: 99%;
     font-size:110%;
     font-family: 'Lato', sans-serif;
-    font-color: #2C3E50;
+    color: #2C3E50;
     background-color: #f5fbfc;
 }
 
@@ -15,7 +15,8 @@ body {
   position: fixed;
   height: 100%;
   overflow: auto;
-  font-color: #f5fbfc;
+  color: #f5fbfc;
+  font-size:150%;
 }
 
 .sidebar a {
