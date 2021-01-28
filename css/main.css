@@ -5,38 +5,59 @@ body {
     color: #2C3E50;
     background-color: #f5fbfc;
 }
-.sidenav {
-  height: 100%;
-  width: 10%;
-  position: fixed;
-  z-index: 1;
-  top: 0;
-  left: 0;
+body {
+  margin: 0;
+  font-family: "Lato", sans-serif;
+}
+
+.sidebar {
+  margin: 0;
+  padding: 0;
+  width: 200px;
   background-color: #FF3389;
-  overflow-x: hidden;
-  padding-top: 20px;
+  position: fixed;
+  height: 100%;
+  overflow: auto;
 }
-.sidenav a {
-  padding: 6px 8px 6px 16px;
-  text-decoration: none;
-  font-size: 110%;
-  color: #ffffff;
+
+.sidebar a {
   display: block;
+  color: black;
+  padding: 16px;
+  text-decoration: none;
+}
+ 
+.sidebar a.active {
+  background-color: #f5fbfc;
+  color: white;
 }
 
-.sidenav a:hover {
-  color: #2C3E50;
+.sidebar a:hover:not(.active) {
+  background-color: #fff;
+  color: white;
 }
 
-.main {
-  margin-left: 10%; /* Same as the width of the sidenav */
-  font-size: 110%; /* Increased text to enable scrolling */
-  padding: 0px 10px;
+div.content {
+  margin-left: 200px;
+  padding: 1px 16px;
+  height: 1000px;
 }
 
-@media screen and (max-height: 450px) {
-  .sidenav {padding-top: 15px;}
-  .sidenav a {font-size: 18px;}
+@media screen and (max-width: 700px) {
+  .sidebar {
+    width: 100%;
+    height: auto;
+    position: relative;
+  }
+  .sidebar a {float: left;}
+  div.content {margin-left: 0;}
+}
+
+@media screen and (max-width: 400px) {
+  .sidebar a {
+    text-align: center;
+    float: none;
+  }
 }
 a {
     text-decoration: none;
