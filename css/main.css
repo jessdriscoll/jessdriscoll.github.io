@@ -1,5 +1,5 @@
 body {
-    width: 90%;
+    width: 99%;
     font-size:110%;
     font-family: 'Lato', sans-serif;
     color: #2C3E50;
@@ -29,7 +29,6 @@ body {
 }
 
 .main {
-  margin: 10px auto;
   margin-left: 10%; /* Same as the width of the sidenav */
   font-size: 110%; /* Increased text to enable scrolling */
   padding: 0px 10px;
