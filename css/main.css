@@ -30,7 +30,7 @@ body {
 }
 
 .main {
-  margin-left: 205; /* Same as the width of the sidenav */
+  margin-left: 20%; /* Same as the width of the sidenav */
   font-size: 110%; /* Increased text to enable scrolling */
   padding: 0px 10px;
 }
