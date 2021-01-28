@@ -1,13 +1,10 @@
 body {
+    margin: 0;
     width: 99%;
     font-size:110%;
     font-family: 'Lato', sans-serif;
     color: #2C3E50;
     background-color: #f5fbfc;
-}
-body {
-  margin: 0;
-  font-family: "Lato", sans-serif;
 }
 
 .sidebar {
@@ -28,12 +25,12 @@ body {
 }
  
 .sidebar a.active {
-  background-color: #f5fbfc;
+  background-color: #FF3389;
   color: white;
 }
 
 .sidebar a:hover:not(.active) {
-  background-color: #fff;
+  background-color: #FF80B5;
   color: white;
 }
 
