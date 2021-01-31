@@ -7,7 +7,9 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	</head>
 	<body>
-		<div class="sidebar">
+
+		<div id="mySidenav" class="sidenav">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
 <a href="/">home!</a>
 <a href="/zines">zines!</a>
 <a href="/allday">bread!</a>
@@ -15,6 +17,27 @@
 <a href="/blog/">blog!</a>
 <a href="/about/">about!</a>
 <a href="mailto:factsarenothing@gmail.com">email!</a>
+</div>
+
+<div id="main">
+  <h2>Sidenav Push Example</h2>
+  <p>Click on the element below to open the side navigation menu, and push this content to the right.</p>
+  <span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; open</span>
+</div>
+
+<script>
+function openNav() {
+  document.getElementById("mySidenav").style.width = "250px";
+  document.getElementById("main").style.marginLeft = "250px";
+}
+
+function closeNav() {
+  document.getElementById("mySidenav").style.width = "0";
+  document.getElementById("main").style.marginLeft= "0";
+}
+</script>
+  
+
 </div>
 		<div class="content">
 		<div class="container">
