@@ -3,6 +3,9 @@ layout: post
 date: 2002-01-04
 ---
 
+January 31, 2021  
+Happier Now: How to stop chasing perfection and embrace everyday moments (even the difficult ones) by Nataly Kogan
+
 January 30, 2021  
 Craftfulness: Mend yourself by making things by Rosemary Davidson and Arzu Tahsin
 
@@ -28,7 +31,7 @@ Marshall McCluhan by Douglas Coupland
 November 28, 2020  
 Upstream by Mary Oliver
 
-November 01, 2020  
+November 2020  
 Bikenomics by Elly Blue
 
 October 31, 2020  
