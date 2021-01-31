@@ -7,56 +7,48 @@ body {
     background-color: #f5fbfc;
 }
 
-.sidebar {
-  margin: 0;
-  padding: 0;
-  width: 200px;
-  background-color: #FF3389;
-  position: fixed;
+.sidenav {
   height: 100%;
-  overflow: auto;
-  color: #f5fbfc;
-  font-size:150%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
 }
 
-.sidebar a {
-  display: block;
-  color: black;
-  padding: 16px;
+.sidenav a {
+  padding: 8px 8px 8px 32px;
   text-decoration: none;
-}
- 
-.sidebar a.active {
-  background-color: #FF3389;
-  color: white;
-}
-
-.sidebar a:hover:not(.active) {
-  background-color: #FF80B5;
-  color: white;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
 }
 
-div.content {
-  margin-left: 200px;
-  padding: 1px 16px;
-  height: 1000px;
+.sidenav a:hover {
+  color: #f1f1f1;
 }
 
-@media screen and (max-width: 700px) {
-  .sidebar {
-    width: 100%;
-    height: auto;
-    position: relative;
-  }
-  .sidebar a {float: left;}
-  div.content {margin-left: 0;}
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
 }
 
-@media screen and (max-width: 400px) {
-  .sidebar a {
-    text-align: center;
-    float: none;
-  }
+#main {
+  transition: margin-left .5s;
+  padding: 16px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
 }
 a {
     text-decoration: none;
