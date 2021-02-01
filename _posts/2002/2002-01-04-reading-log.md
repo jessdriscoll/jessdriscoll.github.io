@@ -4,6 +4,9 @@ date: 2002-01-04
 ---
 
 January 31, 2021  
+Open: Why asking for help can save your life by Frankie Bridge
+
+January 31, 2021  
 Happier Now: How to stop chasing perfection and embrace everyday moments (even the difficult ones) by Nataly Kogan
 
 January 30, 2021  
