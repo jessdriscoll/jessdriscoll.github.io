@@ -3,6 +3,9 @@ layout: post
 date: 2002-01-04
 ---
 
+February 02, 2021  
+The Book You Were Born To Write by Kelly Notaras
+
 January 31, 2021  
 Open: Why asking for help can save your life by Frankie Bridge
 
