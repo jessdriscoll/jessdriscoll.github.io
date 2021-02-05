@@ -6,6 +6,8 @@ date: 2002-01-04
 February 04, 2021  
 Out of the Crazywoods by Cheryl Savageau
 
+>Sometimes I think we go crazy just so people will put us away somewhere and take care of us for a while. Just to not have to think, not have to answer to anything or anyone. 
+
 February 02, 2021  
 The Book You Were Born To Write by Kelly Notaras
 
