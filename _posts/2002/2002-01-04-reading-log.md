@@ -3,6 +3,16 @@ layout: post
 date: 2002-01-04
 ---
 
+February 09, 2021  
+Braiding Sweetgrass by Robin Wall Kimmerer
+
+>It has been said that people of the modern world suffer a great sadness, a "species loneliness"--estrangement from the rest of Creation. We have built this isolation with our fear, with our arrogance, and with our homes brightly lit against the night. For a moment as we walked this road, those barriers dissolved and we began to relieve the loneliness and know each other once again (358)
+
+February 06, 2021  
+Between the World and Me by Ta-Nahisi Coates
+
+>So you must wake up every morning knowing that no promise in unbreakable, least of all the promise of waking up at all. This is not despair. These are the preferences of the universe itself: verbs over nouns, actions over states, struggle over hope.
+
 February 04, 2021  
 Out of the Crazywoods by Cheryl Savageau
 
