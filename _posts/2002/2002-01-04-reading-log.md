@@ -3,6 +3,9 @@ layout: post
 date: 2002-01-04
 ---
 
+February 13, 2021  
+Song of Solomon by Toni Morrison
+
 February 09, 2021  
 Braiding Sweetgrass by Robin Wall Kimmerer
 
