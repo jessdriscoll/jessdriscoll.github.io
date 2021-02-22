@@ -9,7 +9,7 @@ A little zine about my dream of A LITTLE SHOP. A short essay, with a list and re
 
 Apologies to anyone who has ever expressed interest in my childhood dream job of owning and running a little shop, because I’ve probably spent hours talking at you, detailing my plans, sharing my logos, and trying to wrangle you into the project. I figured it was time to put all those ideas into a zine.
 
-Next time someone asks what I do for a living, I hope I can hand them a copy of this. [PDF download](/archive/2014-05-30littleshop.pdf)
+Next time someone asks what I do for a living, I hope I can hand them a copy of this.
 
 Three zines-a-month in a row, baby.
 
