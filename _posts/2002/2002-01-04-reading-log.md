@@ -3,6 +3,14 @@ layout: post
 date: 2002-01-04
 ---
 
+March 14, 2021  
+On Property by Rinaldo Walcott
+
+>Abolition’s purpose is to do more than save Black people; it is also to save the species from its self-destructive self (97)
+
+March 12, 2021  
+A Mind Spread Out On The Ground by Alicia Elliott
+
 February 13, 2021  
 Song of Solomon by Toni Morrison
 
