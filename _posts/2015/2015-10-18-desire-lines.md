@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2015-10-26
+date: 2015-10-18
 ---
 
 Pacific Spirit Park is a piece of old rainforest standing tall between the ocean and the city. Down on the beach, you can't see the expensive houses and the glass university buildings. But we can see the container ships coming into the port. We can see inside the earth, where the cliff has fallen away to reveal the lines of sediment.
