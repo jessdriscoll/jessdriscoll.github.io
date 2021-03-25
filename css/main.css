@@ -71,8 +71,10 @@ img {
 .img {
   width: 25%;
   float: left;
+  padding: 15px;
 }
 .txt {
   width: 75%;
   float: left;
+  padding: 15px;
 }
