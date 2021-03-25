@@ -6,6 +6,11 @@ body {
     background-color: #f5fbfc;
 }
 
+h2 {
+    color: #FF3389;
+    text-align: center
+}
+
 .sidenav {
   height: 100%;
   width: 0;
