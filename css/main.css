@@ -24,12 +24,12 @@ img {
 * {
   box-sizing: border-box;
 }
-.img {
+.col-1 {
   width: 25%;
   float: left;
   padding: 15px;
 }
-.txt {
+.col-2 {
   width: 75%;
   float: left;
   padding: 15px;
