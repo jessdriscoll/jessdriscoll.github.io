@@ -61,21 +61,18 @@ a:hover {
     text-decoration: none;
     color: #FF80B5;
 }
-.container {
-  &__image {
-    display: inline-block;
-    vertical-align: top;
-    width: 46%;
-  }
-  &__text {
-    display: inline-block;
-    width: 46%;
-    @media (max-width: 620px) {
-      width: 100%;
-    }
-  }
-}
 img {
     max-width: 100%;
     height: auto;
+}
+* {
+  box-sizing: border-box;
+}
+.img {
+  width: 25%;
+  float: left;
+}
+.txt {
+  width: 75%;
+  float: left;
 }
