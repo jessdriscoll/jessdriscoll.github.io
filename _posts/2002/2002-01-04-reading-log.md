@@ -3,6 +3,9 @@ layout: post
 date: 2002-01-04
 ---
 
+March 24, 2021  
+Love Lives Here by Amanda Jetté Knox
+
 March 14, 2021  
 On Property by Rinaldo Walcott
 
