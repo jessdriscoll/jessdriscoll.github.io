@@ -5,6 +5,7 @@ date: 2002-01-04
 
 April 30, 2021  
 Cræft: How traditional crafts are about more than just making by Alexander Langlands
+>it’s not that we have lost these ancient skills, it’s worse than that. It’s that we have lost the conception of these skills and what they can do for us (185)
 
 April 7, 2021  
 Beezus and Ramona by Beverly Cleary
