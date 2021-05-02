@@ -3,7 +3,7 @@ layout: post
 date: 2020-08-08
 ---
 
-[This post was first written for my newsletter. Follow the link to subscribe.](https://jessdriscoll.substack.com/p/when-all-is-well-and-well-is-all)
+[This post was first written for my newsletter. Follow the link to subscribe.](https://tinyletter.com/jessdriscoll)
 
 Back in January, when I created my market schedule and submitted my application, I added an extra Sunday in August because I thought that would be the busiest month, the best time to put in a ton of work and make a ton of money for the rest of the year. Now I’m here, on the second of three baking Saturdays, and instead, I want to give up because nothing will ever change. It’s not getting better.
 
