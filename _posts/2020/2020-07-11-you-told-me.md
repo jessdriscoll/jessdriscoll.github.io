@@ -3,7 +3,7 @@ layout: post
 date: 2020-07-11
 ---
 
-[This post was first written for my newsletter. Follow the link to subscribe.](https://jessdriscoll.substack.com/p/you-told-me-i-could-order-the-moon)
+[This post was first written for my newsletter. Follow the link to subscribe.](https://tinyletter.com/jessdriscoll)
 
 If you’ve followed me for any length of time, you’ve probably seen me complain about doing the dishes. I hate it; it’s my least favourite household chore, made all the more egregious because I don’t have a dishwasher in my apartment. A thing you don’t think about when you start a bakery by yourself out of your home kitchen is that you also have to do all the dishes. My first farmers market weekend, I was still doing the dishes well into the next week. I try to stay on top of them now, using those long proofing hours to catch up and clear out the sink. 
 
