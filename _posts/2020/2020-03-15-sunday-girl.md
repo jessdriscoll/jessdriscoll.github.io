@@ -3,7 +3,7 @@ layout: post
 date: 2020-03-15
 ---
 
-[This post was first written for my newsletter. Follow the link to subscribe.](https://jessdriscoll.substack.com/p/dry-your-eyes-sunday-girl-)
+[This post was first written for my newsletter. Follow the link to subscribe.](https://tinyletter.com/jessdriscoll)
 
 Four years ago, I started a project to make a zine a week. I called it Sunday Zine, because I knew I would need a deadline to keep me on track. I made 50 zines that year—some of them are now part of my greatest hits. But when I reached the end of that project, I didn’t want to make another zine.
 
