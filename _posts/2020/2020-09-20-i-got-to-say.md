@@ -3,7 +3,7 @@ layout: post
 date: 2020-09-20
 ---
 
-[This post was first written for my newsletter. Follow the link to subscribe.](https://jessdriscoll.substack.com/p/i-got-to-say-this-sounds-a-little)
+[This post was first written for my newsletter. Follow the link to subscribe.](https://tinyletter.com/jessdriscoll)
 
 Once you become a regular at a farmers market—even as a customer—you notice the patterns, the schedules of others. I’m at the market on the first two Sundays of each month. Sometimes I miss the vendors who only do one day a month, but many are there every week. The woman my mom and I call “Egg Lady” is always there, always on the corner, always with her sunflower tablecloth.
 
