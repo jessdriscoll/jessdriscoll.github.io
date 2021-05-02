@@ -3,7 +3,7 @@ layout: post
 date: 2020-05-04
 ---
 
-[This post was first written for my newsletter. Follow the link to subscribe.](https://jessdriscoll.substack.com/p/we-will-remember-how-to-make-good)
+[This post was first written for my newsletter. Follow the link to subscribe.](https://tinyletter.com/jessdriscoll)
 
 During opening day of [the White Rock Farmers Market](http://www.whiterockfarmersmarket.ca/), I had barely enough time to post. I snapped a quick pic of the sign (thanks, Dad!), announced we were open, and then traffic was steady until close. Lanes were made for physical distancing, and the customers did a pretty good job of managing themselves in the space. I might have liked to see a few more masks (and heard fewer conspiracy theories), but I was impressed by the outcome, despite the (unprecedented) pandemic and the (oh so typical) rain.
 
