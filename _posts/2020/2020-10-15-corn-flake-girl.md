@@ -3,7 +3,7 @@ layout: post
 date: 2020-10-15
 ---
 
-[This post was first written for my newsletter. Follow the link to subscribe.](https://jessdriscoll.substack.com/p/never-was-a-corn-flake-girl)
+[This post was first written for my newsletter. Follow the link to subscribe.](https://tinyletter.com/jessdriscoll)
 
 Last Sunday was my last day at the White Rock Farmers Market. It started raining after we got the tent up, which was a lucky reprieve (no such luck taking everything down, though). My dad took a photo, with me behind the table—my glasses fogged from the mask and the weather—and my mom in the background, re-adjusting the bags she made because making masks has got her sewing again. (My dad made the Santa Clauses hiding underneath the table.)
 
