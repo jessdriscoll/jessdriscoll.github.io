@@ -3,7 +3,7 @@ layout: post
 date: 2020-11-21
 ---
 
-[This post was first written for my newsletter. Follow the link to subscribe.](https://jessdriscoll.substack.com/p/your-crown-was-tight-heavy-on-your)
+[This post was first written for my newsletter. Follow the link to subscribe.](https://tinyletter.com/jessdriscoll)
 
 A few years ago, when I was eating vegan, I tried every kind of plant milk available in my local grocery store: soy, almond, coconut, and cashew (oat wasn’t in the big stores then). This was a considerable expense for me at the time, but I bought a carton of each so I could try them side-by-side and make a real comparison.
 
