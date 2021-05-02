@@ -3,7 +3,7 @@ layout: post
 date: 2020-11-30
 ---
 
-[This post was first written for my newsletter. Follow the link to subscribe.](https://jessdriscoll.substack.com/p/hope-i-know-is-a-fighter-and-a-screamer)
+[This post was first written for my newsletter. Follow the link to subscribe.](https://tinyletter.com/jessdriscoll)
 
 On Wednesday, I had my first appointment outside of the house in months. My learner’s license expired in August. They give you two years to try and pass the road test, and I’ve failed five. So on Wednesday, I took my longest and farthest bus trip since March. I had booked the appointment for 10am, because I’m not a morning person, but it worked out even better than that. I was on the bus during the lull after morning rush hour, with only two other riders for most of the trip.
 
