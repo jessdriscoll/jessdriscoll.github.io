@@ -3,7 +3,7 @@ layout: post
 date: 2020-09-29
 ---
 
-[This post was first written for my newsletter. Follow the link to subscribe.](https://jessdriscoll.substack.com/p/hold-it-focus-hoping-take-me-back)
+[This post was first written for my newsletter. Follow the link to subscribe.](https://tinyletter.com/jessdriscoll)
 
 I make resolutions on New Year’s Eve; I make resolutions at the beginning of every month; I make resolutions that I’m definitely gonna start tomorrow morning, I promise.
 
