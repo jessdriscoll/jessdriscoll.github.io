@@ -3,7 +3,7 @@ layout: post
 date: 2020-11-15
 ---
 
-[This post was first written for my newsletter. Follow the link to subscribe.](https://jessdriscoll.substack.com/p/every-note-we-sing-cant-be-solid)
+[This post was first written for my newsletter. Follow the link to subscribe.](https://tinyletter.com/jessdriscoll)
 
 Today is Sunday, and I promised to send you a breakfast recipe. I started this little habit to help us all reclaim a bit of the time before the pandemic, to reclaim time as a concept we can understand. Sunday breakfasts should be long, drawn-out meals, stretching into lunch time and beyond.
 
