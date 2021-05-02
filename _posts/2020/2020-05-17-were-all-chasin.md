@@ -3,7 +3,7 @@ layout: post
 date: 2020-05-17
 ---
 
-[This post was first written for my newsletter. Follow the link to subscribe.](https://jessdriscoll.substack.com/p/were-all-chasin-after-our-ends-)
+[This post was first written for my newsletter. Follow the link to subscribe.](https://tinyletter.com/jessdriscoll)
 
 I’ve been thinking that maybe I’m done with fiction. Not forever, but for now, and maybe for a while.
 
