@@ -3,7 +3,7 @@ layout: post
 date: 2020-04-02
 ---
 
-[This post was first written for my newsletter. Follow the link to subscribe.](https://jessdriscoll.substack.com/p/king-harvest-will-surely-come)
+[This post was first written for my newsletter. Follow the link to subscribe.](https://tinyletter.com/jessdriscoll)
 
 I’ve been in unofficial (and then official) quarantine for three weeks now. Thankfully, my leftover cough from my horrific flu in February is gone. No fever. No cough. I’m OK. Still teaching a few students, but we’ve made some big changes. My new classroom is our old study room, and each kid gets a table all to themselves. Public school was supposed to return from spring break on Monday, but it’s been postponed indefinitely. I don’t believe they’ll go back before September.
 
