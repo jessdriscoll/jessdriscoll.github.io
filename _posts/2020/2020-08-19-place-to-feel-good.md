@@ -3,7 +3,7 @@ layout: post
 date: 2020-08-19
 ---
 
-[This post was first written for my newsletter. Follow the link to subscribe.](https://jessdriscoll.substack.com/p/maybe-we-can-find-a-place-to-feel)
+[This post was first written for my newsletter. Follow the link to subscribe.](https://tinyletter.com/jessdriscoll)
 
 Since I started at the farmers market in May, I’ve tried to write this letter immediately before or immediately after, to give you a picture of what it’s like starting an independent business, by myself, during a pandemic, after a lifetime of dreaming. Four months in, I’m not sure that’s the best schedule. Saturdays find me flailing for horizontal space in my tiny apartment to get all the loaves ready, so I don’t have to keep the oven going all day during this 20+ degree summer. Mondays find me in that kitchen, now covered with flour and dirty dishes, looking for a tiny corner of space to make my breakfast. 
 
