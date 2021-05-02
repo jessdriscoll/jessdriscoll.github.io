@@ -3,7 +3,7 @@ layout: post
 date: 2020-11-08
 ---
 
-[This post was first written for my newsletter. Follow the link to subscribe.](https://jessdriscoll.substack.com/p/kiss-in-the-kitchen-like-its-a-dance)
+[This post was first written for my newsletter. Follow the link to subscribe.](https://tinyletter.com/jessdriscoll)
 
 There have been too many mornings this year when I wake up, get out of bed, make coffee, then forget to make the rest of my breakfast because I’m reading about the new trauma the internet has brought me overnight. Yesterday was one of those mornings. I woke up very late, unusually late, at 11:30pm, and by that time in the Pacific time zone, an entire day has happened. Yesterday, even more so, as the month which started on Tuesday finally came to an end.
 
