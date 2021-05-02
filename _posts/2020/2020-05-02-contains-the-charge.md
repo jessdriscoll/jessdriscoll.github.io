@@ -3,7 +3,7 @@ layout: post
 date: 2020-05-02
 ---
 
-[This post was first written for my newsletter. Follow the link to subscribe.](https://jessdriscoll.substack.com/p/because-the-air-contains-the-charge)
+[This post was first written for my newsletter. Follow the link to subscribe.](https://tinyletter.com/jessdriscoll)
 
 It’s cloudy today. A good day to stay inside with the oven on. I woke up before 7 this morning for the first time since my quarantine started. I’m taking it as a good sign. Today is Saturday, baking day, the day before [the White Rock Farmers Market](http://www.whiterockfarmersmarket.ca/) opens.
 
