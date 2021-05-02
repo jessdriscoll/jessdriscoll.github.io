@@ -3,7 +3,7 @@ layout: post
 date: 2020-10-18
 ---
 
-[This post was first written for my newsletter. Follow the link to subscribe.](https://jessdriscoll.substack.com/p/the-first-meal-i-ate-inside-a-restaurant)
+[This post was first written for my newsletter. Follow the link to subscribe.](https://tinyletter.com/jessdriscoll)
 
 Sunday breakfasts haven’t felt special in the same way since the pandemic began. A weekend breakfast is about having the time and energy to treat yourself (and anyone else who happens to be eating at your table, I suppose). I have nothing but time now; not always the same amount of energy, but I make do. I’ve been making a lot of Sunday breakfasts on Mondays, Tuesdays, and for lunch and dinner, too.
 
