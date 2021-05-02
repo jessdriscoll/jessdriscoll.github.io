@@ -3,7 +3,7 @@ layout: post
 date: 2020-09-27
 ---
 
-[This post was first written for my newsletter. Follow the link to subscribe.](https://jessdriscoll.substack.com/p/you-always-come-to-mind-whenever)
+[This post was first written for my newsletter. Follow the link to subscribe.](https://tinyletter.com/jessdriscoll)
 
 In 1974, my dad won a radio contest. (My dad loves contests. He organises the lottery pool in every office where he’s worked. In 1997, he won tickets on the radio to see Counting Crows and The Wallflowers at The Gorge in Washington—the former, 15-year-old Jessica’s absolute favourite band. He drove 4 hours south, just the two of us, and we slept in the family minivan before driving back home the next day.) In 1974, my dad lost the grand prize (a VW Sun Bug), but he won every single Beatles album on vinyl, even the odd 1960s compilations with interview clips. These are the records I grew up with.
 
