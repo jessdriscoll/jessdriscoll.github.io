@@ -3,7 +3,7 @@ layout: post
 date: 2020-11-01
 ---
 
-[This post was first written for my newsletter. Follow the link to subscribe.](https://jessdriscoll.substack.com/p/tonight-we-smoke-them-out)
+[This post was first written for my newsletter. Follow the link to subscribe.](https://tinyletter.com/jessdriscoll)
 
 I’ve been home since the 21st. Month 7 of the pandemic, and it finally happened: one of my teaching colleagues tested positive, and then then a student we both taught. I’ve been in self-isolation since then. 
 
