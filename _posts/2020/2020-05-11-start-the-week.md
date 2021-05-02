@@ -3,7 +3,7 @@ layout: post
 date: 2020-05-11
 ---
 
-[This post was first written for my newsletter. Follow the link to subscribe.](https://jessdriscoll.substack.com/p/we-will-start-the-week-with-patches)
+[This post was first written for my newsletter. Follow the link to subscribe.](https://tinyletter.com/jessdriscoll)
 
 Despite planning a version of this business for most of my life, the best parts so far have been serendipity. I didn’t realise yesterday was Mother’s Day when I signed up for the first two markets of each month. I have yet to bake enough bread to satisfy demand. A lot of the success of these first two markets might just be people desperate to get outside, see other humans, and eat something they didn’t have to make themselves.
 
