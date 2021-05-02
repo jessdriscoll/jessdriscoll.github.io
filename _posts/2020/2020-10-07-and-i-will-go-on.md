@@ -3,7 +3,7 @@ layout: post
 date: 2020-10-07
 ---
 
-[This post was first written for my newsletter. Follow the link to subscribe.](https://jessdriscoll.substack.com/p/and-i-will-go-on-shining-shining)
+[This post was first written for my newsletter. Follow the link to subscribe.](https://tinyletter.com/jessdriscoll)
 
 Each Monday, I have the best of intentions. I want to write a letter to tell you all about what happened on Sunday at the market. But what I really want to do on Mondays is sleep. Saturday is for baking; Sunday is for selling; Monday is for recovering. 
 
