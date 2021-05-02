@@ -3,7 +3,7 @@ layout: post
 date: 2020-11-11
 ---
 
-[This post was first written for my newsletter. Follow the link to subscribe.](https://jessdriscoll.substack.com/p/homemaking-at-the-end-of-the-world)
+[This post was first written for my newsletter. Follow the link to subscribe.](https://tinyletter.com/jessdriscoll)
 
 I really should’ve gone into marketing, because creating names, logos, design guides, and colour palettes has always been the most fun part of independent business for me. It’s the reason I keep changing the names of my ventures. And it’s the same reason I’m grateful to Past Me for choosing my name for this Substack URL. With my real name as the foundation, I can build, or rebuild, anything I want on top.
 
