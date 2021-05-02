@@ -3,7 +3,7 @@ layout: post
 date: 2020-09-15
 ---
 
-[This post was first written for my newsletter. Follow the link to subscribe.](https://jessdriscoll.substack.com/p/i-dont-know-when-but-just-saying)
+[This post was first written for my newsletter. Follow the link to subscribe.](https://tinyletter.com/jessdriscoll)
 
 Today is Tuesday, and I said at the beginning of the season that I wanted to write my newsletter on the Saturdays before the farmers market. Today is September 15th, and I said at the beginning of the month that I wanted to write at least 4 letters. I’ve lost track of how many times I’ve started writing here. Just now, I deleted what I started writing last Saturday. 
 
