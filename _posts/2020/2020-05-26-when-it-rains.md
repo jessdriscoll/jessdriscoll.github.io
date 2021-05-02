@@ -3,7 +3,7 @@ layout: post
 date: 2020-05-26
 ---
 
-[This post was first written for my newsletter. Follow the link to subscribe.](https://jessdriscoll.substack.com/p/-the-clouds-never-expect-it-when)
+[This post was first written for my newsletter. Follow the link to subscribe.](https://tinyletter.com/jessdriscoll)
 
 In an effort to break up the quiet and loneliness of quarantine, I’ve been listening to a lot more music than usual. Back in January, I bought the deluxe limited edition autographed vinyl version of [Joel Plaskett’s new album, 44](http://joelplaskett.com/44-2/). It’s a quadruple record, with a bonus 45. As kids, my brothers and I were allowed to play anything we wanted from my parents’s combined record collection, but my youngest brother took custody of my dad’s turntable a few years ago. I have records I’ve bought over the years—all secondhand, for their amazing covers or because I super love the artists—but I had nothing on which to play them.
 
