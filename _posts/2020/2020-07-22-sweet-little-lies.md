@@ -3,7 +3,7 @@ layout: post
 date: 2020-07-22
 ---
 
-[This post was first written for my newsletter. Follow the link to subscribe.](https://jessdriscoll.substack.com/p/tell-me-lies-tell-me-sweet-little)
+[This post was first written for my newsletter. Follow the link to subscribe.](https://tinyletter.com/jessdriscoll)
 
 Procrastination has been my number one coping mechanism since I was a kid. I hated getting up in the morning. I’d put off doing chores until the moment right before my mom got mad. I wrote more than one essay the morning it was due. 
 
