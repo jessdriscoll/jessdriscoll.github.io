@@ -3,7 +3,7 @@ layout: post
 date: 2020-08-31
 ---
 
-[This post was first written for my newsletter. Follow the link to subscribe.](https://jessdriscoll.substack.com/p/so-many-things-i-would-have-done)
+[This post was first written for my newsletter. Follow the link to subscribe.](https://tinyletter.com/jessdriscoll)
 
 After the third market of August, I prepared myself for a week off, then back to baking. Then I looked at a calendar and discovered August would have one more Sunday on the 30th. This happened in May, too, a fifth Sunday tacked on at the end. I was very bored that month—the first of my farmers market venture and barely two months into quarantine. But two weekends off has been a nice break this time around, at the end of summer and nearing the end of the market season. 
 
