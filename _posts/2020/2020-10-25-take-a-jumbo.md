@@ -3,7 +3,7 @@ layout: post
 date: 2020-10-25
 ---
 
-[This post was first written for my newsletter. Follow the link to subscribe.](https://jessdriscoll.substack.com/p/take-a-jumbo-across-the-water-like)
+[This post was first written for my newsletter. Follow the link to subscribe.](https://tinyletter.com/jessdriscoll)
 
 The International Boundary between Canada and the United States has been closed since March 21. I put that phrase in capital letters because “International Boundary” is the official name for what most of us call “the border” or “the line,” as in, “I’m going across the line tomorrow.” For Canadians like my grandma, going “down south” is the same as going down the street to pick up groceries—because that’s usually what she’s doing. Hitting Fred Meyer on seniors discount day was a regular part of the shopping week for my grandparents. They’ve spent so much time across the line that they keep a bank account in the US.
 
