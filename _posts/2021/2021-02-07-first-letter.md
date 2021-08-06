@@ -27,4 +27,8 @@ When I was writing and publishing the first time I started this newsletter, I wa
 
 This is the year I write my book. 
 
+PS. yes, I promised you a recipe. Breakfasts recently have been toast with peanut butter and banana, or with Nutella (leftover from Christmas). But dinners have been hard. So I decided to let go and just buy a salad in a bag. All the decisions and most of the labour is done for you. And because there are no leftover ingredients, you can try different flavours every night and not feel guilty about a bunch of half-empty dressing bottles cluttering up your fridge. My favourite of the bunch was an avocado ranch with tortilla strips and "Mexican" cheese (it looked like cheddar and Monterey Jack to me). 
+
+If you're struggling with cooking, too, let me release you. Buy something in a bag. Don't feel guilty about the excess packaging. Eat something colourful. You're doing your best.
+
 <a href="{{page.previous.url}}">previous</a> / <a href="{{page.next.url}}">next</a>
