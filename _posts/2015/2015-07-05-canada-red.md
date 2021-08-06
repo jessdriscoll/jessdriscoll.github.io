@@ -32,3 +32,5 @@ It was bad, but three minutes later, everything got worse. Three minutes was all
 I sat beside a women wearing the exact same shirt as me. On the other side was two girls, USA fans with red, white, and blue streamers in their hair. I sat in front of a row of 6-year-olds, who cheered Canada harder than anyone else and proclaimed, "Our team is the goodest." I saw rainbow Pride flags, and we sang along to Little Mix's "Salute", an anthem for the World Cup. I got a selfie with the snowy owl mascot, Shuéme. I ate poutine. Even the train ride home was pleasant, despite the heat. A good day. 
 
 We didn't win, but there is nothing like the feeling of celebrating a goal surrounded by 54 thousand other people who know what it means. After she scored, Christine Sinclair lifted her arms to say, "Get up, Canada. Stand up tall." Don't worry, Sincy. We were already standing. 
+
+[Buy the PDF zine with this essay on Itch.io.](https://jessdriscoll.itch.io/canadared)
