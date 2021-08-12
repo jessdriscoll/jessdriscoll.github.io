@@ -11,7 +11,7 @@ During the plague year of 2020 (I recently learned that a “plague” means bac
 	
 During the plague years of the 1300s, the people looked everywhere, even their kitchens, for relief. To ward off the Black Death, some used a vinegar solution of herbs and spices. While there are certainly medicinal qualities in plants, the Four Thieves Vinegar probably did little more than block the smell of death.
 	
->vinaigre des quatre voleurs
+>Vinaigre des quatre voleurs: 
 >“Take three pints of strong white wine vinegar, add a handful of each of wormwood, meadowsweet, wild marjoram and sage, fifty cloves, two ounces of campanula roots, two ounces of angelic, rosemary and horehound and three large measures of camphor. Place the mixture in a container for fifteen days, strain and express then bottle. Use by rubbing it on the hands, ears and temples from time to time when approaching a plague victim.”
   
 In my cupboards right now, I have sage, cloves, and rosemary. Marjoram and angelica seeds are easy to find at most grocery stores, and I’m always on the lookout for interesting recipes.
