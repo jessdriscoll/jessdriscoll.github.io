@@ -3,6 +3,8 @@ layout: post
 date: 2015-07-05 
 ---
 
+[Buy the PDF zine with this essay on Itch.io.](https://jessdriscoll.itch.io/canadared)
+
 What I love more than any sport is seeing Canada come together when our national team is playing. Usually, this is for one of our hockey teams. You know them. They're the ones who have won all the gold medals at the last two Winter Olympics. But this time, 54 thousand fans crowded BC Place to watch our women's soccer team play England in the quarter finals.
 
 Yes, there were a lot of fans at the game wearing Team Canada hockey jerseys and hats. If we have specialty clothing for cheering on our team, it's probably a hockey jersey. But I saw even more soccer jerseys. I saw girls and women with Christine Sinclair's number 12 on their backs. I saw girls wearing their own numbers on their own team jerseys, wearing their striped socks pulled up to their knees, even in the near 30 degree sun. 
@@ -33,4 +35,8 @@ I sat beside a women wearing the exact same shirt as me. On the other side was t
 
 We didn't win, but there is nothing like the feeling of celebrating a goal surrounded by 54 thousand other people who know what it means. After she scored, Christine Sinclair lifted her arms to say, "Get up, Canada. Stand up tall." Don't worry, Sincy. We were already standing. 
 
-[Buy the PDF zine with this essay on Itch.io.](https://jessdriscoll.itch.io/canadared)
+/
+
+[I'm @JessMakesZines](https://twitter.com/JessMakesZines) // [Subscribe to my fortnightly letter](http://tinyletter.com/jessdriscoll) // [Support my work on Patreon](https://www.patreon.com/jessdriscoll) // [And read more zines!](https://jessdriscoll.itch.io/)
+
+<a href="{{page.previous.url}}">previous</a> / <a href="{{page.next.url}}">next</a>
