@@ -18,3 +18,9 @@ In our world, 13-year-old boys are in their first years of high school. They’r
 I hope the boys growing up and watching ADVENTURE TIME right now don’t leave Finn and Jake behind. The show is teaching important lessons about what to do, who to be, and how to treat the world--not only the people you care about, but everyone. I hope the men getting high and watching ADVENTURE TIME right now are paying attention, too. There are lessons for them that they maybe didn’t get the first time around.
 
 Be a hero. Save the day. But if a girl doesn’t laugh at your jokes, that’s no reason to run away and hide in the pillow fort. Be a man. And if you can’t be a man, be a boy like Finn. You’ll get there eventually.
+
+/
+
+[I'm @JessMakesZines](https://twitter.com/JessMakesZines) // [Subscribe to my fortnightly letter](http://tinyletter.com/jessdriscoll) // [Support my work on Patreon](https://www.patreon.com/jessdriscoll) // [And read more zines!](https://jessdriscoll.itch.io/)
+
+<a href="{{page.previous.url}}">previous</a> / <a href="{{page.next.url}}">next</a>
