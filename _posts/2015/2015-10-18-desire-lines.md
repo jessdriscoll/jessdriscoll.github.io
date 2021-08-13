@@ -30,3 +30,9 @@ Since I started hiking again this year, I've lost 40 pounds. I had to get rid of
 Vancouver doesn't know how to be a city anymore, if it ever did. It's a place in a constant state of rebuilding and rebelling against change. I just assume every house costs a million dollars. When I walk through the obviously rich neighbourhoods, my brain can't even conceive of a number. It's a city of old hippies who have hung onto all the boring parts of the '60s and forgotten how to be radical.
 
 But maybe if I get off the trail, away from the road, where no path has been cut through the wilderness, I'll find a little piece of something untouched I can love. Maybe I can find something in this city which still loves me back. My cut-up palms and splinters in my fingertips say I probably didn't find it on the side of that cliff above the Strait of Georgia. But my hands will heal. And I'll keep looking.
+
+/
+
+[I'm @JessMakesZines](https://twitter.com/JessMakesZines) // [Subscribe to my fortnightly letter](http://tinyletter.com/jessdriscoll) // [Support my work on Patreon](https://www.patreon.com/jessdriscoll) // [And read more zines!](https://jessdriscoll.itch.io/)
+
+<a href="{{page.previous.url}}">previous</a> / <a href="{{page.next.url}}">next</a>
