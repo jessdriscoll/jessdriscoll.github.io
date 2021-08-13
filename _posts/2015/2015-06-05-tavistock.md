@@ -64,3 +64,9 @@ Fort Langley Artists Group
 at the corner of Mavis and Glover Road
 
 An art gallery inside the old CN Railroad station. A community of artists, mostly older, but they're the ones who can afford to live here these days.
+
+/
+
+[I'm @JessMakesZines](https://twitter.com/JessMakesZines) // [Subscribe to my fortnightly letter](http://tinyletter.com/jessdriscoll) // [Support my work on Patreon](https://www.patreon.com/jessdriscoll) // [And read more zines!](https://jessdriscoll.itch.io/)
+
+<a href="{{page.previous.url}}">previous</a> / <a href="{{page.next.url}}">next</a>
