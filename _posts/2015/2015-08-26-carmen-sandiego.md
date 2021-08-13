@@ -3,6 +3,8 @@ layout: post
 date: 2015-08-26
 ---
 
+[Download this essay as a zine at Itch!](https://jessdriscoll.itch.io/carmen-sandiego)
+
 I spent Sunday afternoon at a family picnic, and then when I came home, I went looking for Carmen Sandiego. These two events aren’t related, but they could have been. I was talking to my brother about video games. My aunt had just returned from Europe, and we were talking about travel. 
 
 But the truth is that I was procrastinating. I was supposed to be writing about blackberries (they have not had the best summer), and when I realised that wasn’t working, I quickly outlined some recipes from my week in cooking to fill my eight pages. But none of my plans were coming together, and I was facing down my deadline.
@@ -28,3 +30,9 @@ Though the objective of the game is to catch criminals, win promotions, and work
 I loved video games then. I love them less now, though I play a lot on my iPhone, and I'm always looking for something to challenge me. I haven't found anything as satisfying as Carmen Sandiego. She was a worthy opponent and an unexpected role model. She was a video game woman to be proud of. 
 
 May she always be one step ahead.
+
+/
+
+[I'm @JessMakesZines](https://twitter.com/JessMakesZines) // [Subscribe to my fortnightly letter](http://tinyletter.com/jessdriscoll) // [Support my work on Patreon](https://www.patreon.com/jessdriscoll) // [And read more zines!](https://jessdriscoll.itch.io/)
+
+<a href="{{page.previous.url}}">previous</a> / <a href="{{page.next.url}}">next</a>
