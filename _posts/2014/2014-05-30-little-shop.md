@@ -13,7 +13,7 @@ Next time someone asks what I do for a living, I hope I can hand them a copy of 
 
 Three zines-a-month in a row, baby.
 
--
+/
 
 I keep coming back to a hot summer's day, walking down the street in Halifax, and passing two girls sitting on the steps outside their Victorian walkup. Not kids. College-aged girls. They were selling drinks on the sidewalk. There are no lawns in the city. There are no driveways. But these two had set up their lemonade stand just the way I remember setting up mine in the housing co-op where I grew up. They were selling what looked like lemonade and iced tea, in tall clear plastic cups so you could see the ice and something green. If I was doing the same, something green would certainly be fresh mint.
      
@@ -43,7 +43,7 @@ When I was young, and even when I was too old, I couldn't picture what I would e
      
 Or it'll be exactly what I've been planning my whole life. It'll be a tiny shop. A narrow space on a side street, not too busy, but somewhere people walk and ride past. We have a bike rack out front. Herbs in the window box. There's a bright striped awning above, like a French cafe. Inside, we have a rack of homemade zines. Pick one up and browse. They're cheap, most people end up buying something when they only came in to loo. You can buy the prints on the walls. Come back next week when we're teaching basic mending. I'm behind the counter hand-sewing something right now. We have a kitchen in the back, and cookies are baking. They'll be ready in a minute.
 
--
+/
      
 Some Little Shops Worth Visiting
 
@@ -77,3 +77,9 @@ Cherry Bomb
 Vancouver, BC V6Z1K7
 
 The store is on Granville Street now, but it used to be around the corner and upstairs. It was a closet when I was buying T-shirts there in the late '90s, racks stacked on top of one another, and just a single heat press behind the counter. They still sell the same random collection of late century nostalgia: pop culture heat transfers and custom letters on T-shirts, bags, whatever you want. But it's a franchise now, with three stores in the Lower Mainland and more around the world. Little doesn't last long in Vancouver.
+
+/
+
+[I'm @JessMakesZines](https://twitter.com/JessMakesZines) // [Subscribe to my fortnightly letter](http://tinyletter.com/jessdriscoll) // [Support my work on Patreon](https://www.patreon.com/jessdriscoll) // [And read more zines!](https://jessdriscoll.itch.io/)
+
+<a href="{{page.previous.url}}">previous</a> / <a href="{{page.next.url}}">next</a>
