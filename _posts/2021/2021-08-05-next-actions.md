@@ -5,7 +5,7 @@ date: 2021-08-05
 
 [This post was first written for my newsletter. Follow the link to subscribe.](https://tinyletter.com/jessdriscoll)
 
-I’ve been thinking a lot about you and this newsletter, even if I haven't been writing it. I should say sending it. I have a few drafts on the go: one about how I just finished a M*A*S*H rewatch (got to the end of season 11, then started all over again from season 4).  Another one about my adventures on LEX the dating app. 
+I’ve been thinking a lot about you and this newsletter, even if I haven't been writing it. I should say sending it. I have a few drafts on the go: one about how I just finished a MASH rewatch (got to the end of season 11, then started all over again from season 4).  Another one about my adventures on LEX the dating app. 
 
 Every time I read something, watch something, play something, I want to write about it, and I’m realising I no longer have a place to do that. Yes, I could revive my dormant blog. Yes, I could get back on Twitter. Or go all the way back to Tumblr?
 
