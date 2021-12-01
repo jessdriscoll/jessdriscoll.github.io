@@ -3,7 +3,7 @@ layout: post
 date: 2021-02-07
 ---
 
-[This post was first written for my newsletter. Follow the link to subscribe.](https://tinyletter.com/jessdriscoll)
+[This post was first written for my newsletter. Follow the link to subscribe.](https://jessmakeszines.ck.page)
 
 When I was trying to be a fiction writer, I knew I had to start an email list. Every single book tells you it's the most effective way to reach readers and sell books. Back when I was in the thick of publishing in 2015, I chose Tiny Letter. It's simple and easy, with a blog-like text field in which you can write--not like the campaign-focused email newsletters for people who do this as their job. The last letter I wrote from this account was in 2017, which must've been when the company was bought by Mail Chimp, because that's the reason I left.
 
