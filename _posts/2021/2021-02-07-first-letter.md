@@ -17,7 +17,7 @@ But I don't need another blog. I might need an audience, and that feels weird to
 
 2021's letters won't come as often, but my original promise to you remains: I won't waste your time, I won't send you a bunch of links to go read, I will send you recipes! You subscribed because you want to follow along with my projects.
 
-My zine about how I make zines will be published monthly. [January's issue is available now!](https://jessdriscoll.itch.io/congenial-telegram) I've been working on getting more of my archive off my harddrive and out in public. [There's a new /zines page with the whole catalogue](jessdriscoll.com/zines/), and, oh yeah, I redesigned my website (lemme know what you think!). 
+My zine about how I make zines will be published monthly. [January's issue is available now!](https://jessdriscoll.itch.io/congenial-telegram) I've been working on getting more of my archive off my harddrive and out in public. Oh yeah, I redesigned my website (lemme know what you think!). 
 
 2021 will be more writing and less baking, but that doesn't mean no baking at all. It just means that I don't have the energy for the market this year. It could just be the winter hanging heavy on me in this moment, but 2020 took a lot from us all, and time to rest is required. I've been sleeping and reading more than ever, and it feels good. 
 
