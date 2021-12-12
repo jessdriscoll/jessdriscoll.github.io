@@ -9,12 +9,9 @@ So I decided to go back to Disney+ and rewatch The X-Files. This was my favourit
 
 I just started season 2, which begins with Mulder talking about Voyager, launched 44 years ago this month and the next.
 
-Thirteen years after its launch, Voyager One passed the orbital plane of Neptune and essentially leaving our solar system. Within that time, there were no further messages sent. Nor are any planned. We wanted to listen.
+>Thirteen years after its launch, Voyager One passed the orbital plane of Neptune and essentially leaving our solar system. Within that time, there were no further messages sent. Nor are any planned. We wanted to listen.
 
-For the 40th anniversary in 2017, I designed Golden Record for a game jam. It's a storytelling card game wherein you're tasked with compiling a new message to send out beyond our solar system. It's a concept I'm still very happy with (though I'd probably tweak the rules a little). 
-
-Today in 1977, Voyager 2 was launched. (Voyager 1 followed on September 5th. For a game jam celebrating the 40th anniversary, I made this storytelling card game. pic.twitter.com/eGkcb6eLWm
-— Jess 💌 Driscoll (@JessMakesZines) August 20, 2021
+For the 40th anniversary in 2017, [I designed Golden Record for a game jam.](https://jessdriscoll.itch.io/golden-record) It's a storytelling card game wherein you're tasked with compiling a new message to send out beyond our solar system. It's a concept I'm still very happy with (though I'd probably tweak the rules a little). 
 
 On Monday, Canzine was announced, so I've been thinking a lot about what I'm going to sell. Some old faves, of course, but I'd love to have something new on offer this year. To that end, I've been working on collecting some of the recipes I've shared here with you. The other day, I made a zine I'm calling Bread & Pasta. They're a big part of the reason I survived 2020, lol.
 
