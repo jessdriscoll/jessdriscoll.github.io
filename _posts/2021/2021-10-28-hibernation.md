@@ -13,17 +13,16 @@ Last Sunday was the last farmers market of the season, as well as All Day Breakf
 
 I’m dreaming about hibernation in December.
 
-dusk view of Kulshan Mountain covered in snow and the full moon
 My book is due at the end of November, so that’s where my brain is turning now. But when it’s done, a few weeks of nothing sounds so good.
 
 But before then!
 
 I'm writing a book, I'm doing a talk, and I'm planning to make a zine in November. Do you need a little encouragement to make something next month?
 
-​NaMaZiMo is a tiny kick in the butt for your creativity. National Make a Zine Month means that if you make one zine, you win!
+NaMaZiMo is a tiny kick in the butt for your creativity. National Make a Zine Month means that if you make one zine, you win!
 
 Don't worry about word count. Don't fret about perfection. Just make something already.
 
-​On November 1st, at 5pm Pacific, I'll be talking about past zine challenges I've completed. Like in 2016, when I made a zine a week all year. Or in 2018, when I made a zine every day. I've challenged myself to write daily poems and daily reviews. There's so much creative energy in borders and restraints.
+On November 1st, at 5pm Pacific, I'll be talking about past zine challenges I've completed. Like in 2016, when I made a zine a week all year. Or in 2018, when I made a zine every day. I've challenged myself to write daily poems and daily reviews. There's so much creative energy in borders and restraints.
 
-​Register at Eventbrite, and you'll get the link in your email on November 1st to join us for the kickoff to NaMaZiMo. And it's totally free!
+Register at Eventbrite, and you'll get the link in your email on November 1st to join us for the kickoff to NaMaZiMo. And it's totally free!
